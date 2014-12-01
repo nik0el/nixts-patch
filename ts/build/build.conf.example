@@ -60,12 +60,11 @@
 #machine NT-535				# Foxconn Intel D525 Barebone
 #machine Dell-FX170			# Dell FX170 D525 Atom Machine
 #machine VMWare				# A good set of modules for a VmWare Virtual Machine
-#machine Virtualbox-4.1			# A good set of modules for a Virtualbox Virtual Machine
+machine Virtualbox-4.1			# A good set of modules for a Virtualbox Virtual Machine
 #machine VIA-Epia-CLE266		# VIA Epia/Eden based on the the CLE266 chip. Rather common in thin clients a few years old
 #machine classic_generic		# Big list of modules that you can choose by unremarking them
 #machine IGEL-M300C                     # Igel CX700 Via
 #machine HP-t5135                       # HP CX700 Via
-machine acernout
 
 #!!Wireless Stuff
 #package wpa_supplicant
@@ -310,14 +309,14 @@ package hwlister
 							# memory utilization. Cool/Dangerous . Harder to dubug other packages. (Finishing Touch)
 							# Set to 'true' to enable or 'lotsofmem' for slightly slower booting but no squash lag on app launch.
 #param tsuser         tsuser                            # Name of the user that thinstation will run as. Needs userauto package.
-#param tsuserpasswd   hotwater				# Do Change! Console/telnet password for non-root
+#param tsuserpasswd   secretword				# Do Change! Console/telnet password for non-root
 
-param rootpasswd     hotwater				# Do Change!  Console/telnet password for root
+param rootpasswd     secretword				# Do Change!  Console/telnet password for root
                                         		# If this is enabled, Telnetd will be enabled.
-param xorgvncpasswd  hotwater				# VNC Access Password
-param storagepasswd  hotwater				# Password for storage server
-param dialuppasswd   hotwater				# Password for dialin account
-param sambapasswd    hotwater	  			# Password for samba shares when using user mode security
+param xorgvncpasswd  secretword				# VNC Access Password
+param storagepasswd  secretword				# Password for storage server
+param dialuppasswd   secretword				# Password for dialin account
+param sambapasswd    secretword	  			# Password for samba shares when using user mode security
 #param kernelcmdline "radeon.modeset=0"                 # Add additional kernel command lines. e.g. disable radeon framebuffer
 #param stripelf       yes				# Strip extraneous information from elf binaries (Maybe not Safe)
 #param acpisupport    disable				# Tells the kernel not to load acpi modules. (Breaks some Intel Chipsets if disabled)
