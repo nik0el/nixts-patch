@@ -1,0 +1,145 @@
+#!/bin/sh
+
+#	hplj1000:
+#	hplj1005:
+#	hplj1020:
+#
+#	Hotplug script for HP1000/1005 USB laser printers.  The model number
+#	that this script deals with is determined from the script name.
+#
+#	Used to download firmware automatically into the printer when it
+#	is powered up or plugged into the USB port.
+#
+#	Also, run this script once with the magic argument "install-usermap"
+#	to create the proper entry in the /etc/hotplug/usb.usermap file.
+#
+#	The inspiration fo this script is from:
+#		Oscar Santacreu. Alicante-Spain (2002)
+#		Mike Morgan (2004)
+#
+
+# udev calls us twice on FC4! Just want /dev/usb/lp<N>
+case "$DEVNAME" in
+/dev/usb/usb*)	exit;;
+esac
+
+PROGNAME="$0"
+PROGDIR="`dirname "$0"`"
+
+#
+# Set $DEV to, e.g. /dev/usb/lp0, to force the device you want
+# Else, leave it null to automatically detect the device
+#
+#DEV=/dev/usb/lp0
+DEV=""
+
+#
+# Directory to find downloadable HP firmware files sihpMMMM.dl
+#
+FWDIR=/lib/firmware/foo2zjs
+
+#
+# Program used to determine USB id information
+#
+USBID=/bin/usb_printerid
+
+#
+#	Figure out the model number from the name of this script
+#
+case "$0" in
+*P1005)
+    MODEL=P1005
+    USB1=0x03f0	#Vendor
+    USB2=0x3d17	#Model
+    ;;
+*P1006)
+    MODEL=P1006
+    USB1=0x03f0	#Vendor
+    USB2=0x3e17	#Model
+    ;;
+*P1505)
+    MODEL=P1505
+    USB1=0x03f0	#Vendor
+    USB2=0x3f17	#Model
+    ;;
+*1000)
+    MODEL=1000
+    USB1=0x03f0	#Vendor
+    USB2=0x0517	#Model
+    ;;
+*1005)
+    MODEL=1005
+    USB1=0x03f0	#Vendor
+    USB2=0x1317	#Model
+    ;;
+*1018)
+    MODEL=1018
+    USB1=0x03f0 #Vendor
+    USB2=0x4117 #Model
+    ;;
+*1020)
+    MODEL=1020
+    USB1=0x03f0 #Vendor
+    USB2=0x2b17 #Model
+    ;;
+*)
+    echo_log "Only HP LaserJet 1000, 1005, 1018, and 1020 are supported"
+    exit
+    ;;
+esac
+
+#
+#	Procedure to load a single device with firmware
+#
+load1() {
+    _dev="$1"
+    fw="$FWDIR/sihp$MODEL.dl"
+    if [ ! -f "$fw" ]; then
+	echo_log "Missing HP LaserJet $MODEL firmware file $fw"
+	echo_log "...read foo2zjs installation instructions and run ./getweb $MODEL"
+	return 1
+    fi
+
+    echo_log "loading HP LaserJet $MODEL firmware $fw to $_dev ..."
+    # There is a timeout problem with udev and FC4, so spin it off.
+    (
+	if cat $fw > $_dev; then
+	    echo_log "... download successful."
+	else
+	    echo_log "... download failed."
+	fi
+    ) &
+    return 0
+}
+
+#
+#	OK, now download firmware to any printers that need it
+#
+if [ "$DEV" != "" ]; then
+    #
+    # force downloading to a specific device
+    #
+    load1 "$DEV"
+elif [ -x $USBID ]; then
+    #
+    # Sniff around for printers that need a firmware download
+    #
+    usblps=`find /dev/usb -name lp*`" "`find /dev -name usblp*`
+    for dev in $usblps; do
+	status=`$USBID $dev 2>/dev/null | grep -i "hp LaserJet $MODEL"`
+	if [ "$status" != "" ]; then
+	    # This is a LaserJet 100x
+	    chmod 0666 $dev
+	    status=`$USBID $dev | grep 'FWVER'`
+	    if [ "$status" = "" ]; then
+		# Firmware is not yet loaded
+		load1 "$dev"
+	    else
+		echo_log "HP LaserJet $MODEL firmware already loaded into $dev"
+	    fi
+	fi
+    done
+else
+    echo_log "HP LaserJet $MODEL firmware was not downloaded..."
+    echo_log "...couldn't find $USBID and DEV is not set"
+fi

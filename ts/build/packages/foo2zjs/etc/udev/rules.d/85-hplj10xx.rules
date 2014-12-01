@@ -1,0 +1,14 @@
+#HP Laserjet 1000
+KERNEL=="lp*", SUBSYSTEMS=="usb", ATTRS{idVendor}=="03f0", ATTRS{product}=="HP LaserJet 1000", SYMLINK+="hplj1000-%n", MODE="0666", RUN+="/etc/udev/scripts/hplj1000"
+#HP Laserjet 1005
+KERNEL=="lp*", SUBSYSTEMS=="usb", ATTRS{idVendor}=="03f0", ATTRS{product}=="HP LaserJet 1005", SYMLINK+="hplj1005-%n", MODE="0666", RUN+="/etc/udev/scripts/hplj1005"
+#HP Laserjet 1005
+KERNEL=="lp*", SUBSYSTEMS=="usb", ATTRS{idVendor}=="03f0", ATTRS{product}=="HP LaserJet 1018", SYMLINK+="hplj1018-%n", MODE="0666", RUN+="/etc/udev/scripts/hplj1018"
+#HP Laserjet 1020
+KERNEL=="lp*", SUBSYSTEMS=="usb", ATTRS{idVendor}=="03f0", ATTRS{product}=="HP LaserJet 1020", SYMLINK+="hplj1020-%n", MODE="0666", RUN+="/etc/udev/scripts/hplj1020"
+#HP Laserjet P1005
+KERNEL=="lp*", SUBSYSTEMS=="usb", ATTRS{idVendor}=="03f0", ATTRS{product}=="HP LaserJet P1005", SYMLINK+="hpljP1005-%n", MODE="0666", RUN+="/etc/udev/scripts/hpljP1005"
+#HP Laserjet P1006
+KERNEL=="lp*", SUBSYSTEMS=="usb", ATTRS{idVendor}=="03f0", ATTRS{product}=="HP LaserJet P1006", SYMLINK+="hpljP1006-%n", MODE="0666", RUN+="/etc/udev/scripts/hpljP1006"
+#HP Laserjet P1505
+KERNEL=="lp*", SUBSYSTEMS=="usb", ATTRS{idVendor}=="03f0", ATTRS{product}=="HP LaserJet P1505", SYMLINK+="hpljP1505-%n", MODE="0666", RUN+="/etc/udev/scripts/hpljP1505"
