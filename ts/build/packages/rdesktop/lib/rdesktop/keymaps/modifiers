@@ -1,0 +1,29 @@
+Shift_R 0x36
+Shift_L 0x2a
+
+Alt_R 0xb8
+Mode_switch 0xb8
+ISO_Level3_Shift 0xb8
+
+Alt_L 0x38
+
+Control_R 0x9d
+Control_L 0x1d
+
+# Translate Meta, Super and Hyper to Windows keys. 
+# This is hardcoded. See documentation for details. 
+
+# Translate Menu to the Windows Application key. 
+# This one does not work either. 
+Menu 0xdd
+
+clear mod1
+clear mod4
+keysym Alt_L = Alt_L
+keysym Alt_R = Alt_R
+keysym Super_L = Meta_L Super_L
+keysym Super_R = Meta_R Super_R
+add mod1 = Meta_L
+add mod1 = Meta_R
+add mod4 = Alt_L
+add mod4 = Alt_R
