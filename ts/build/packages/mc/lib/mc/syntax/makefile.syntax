@@ -1,0 +1,49 @@
+context default
+    keyword $$ brightcyan
+    keyword $(*) yellow
+    keyword ${*} brightgreen
+    keyword whole linestart define magenta
+    keyword whole linestart endef magenta
+    keyword whole linestart include magenta
+    keyword whole linestart ifdef magenta
+    keyword whole linestart ifndef magenta
+    keyword whole linestart endif magenta
+    keyword whole linestart if magenta
+    keyword whole linestart ifeq magenta
+    keyword whole linestart ifneq magenta
+    keyword whole linestart else magenta
+    keyword linestart \t lightgray red
+    keyword whole .PHONY white
+    keyword whole .NOEXPORT white
+    keyword = white
+    keyword : yellow
+    keyword \\\n yellow
+# this handles strange cases like @something@@somethingelse@ properly
+    keyword whole @+@ brightmagenta black
+    keyword @+@ brightmagenta black
+
+# comment
+context linestart # \n brown
+    spellcheck
+    keyword whole @+@ brightmagenta black
+    keyword @+@ brightmagenta black
+
+# right part of an assignment
+context exclusive = \n brightcyan
+    keyword \\\n yellow
+    keyword $$ brightcyan
+    keyword $(*) yellow
+    keyword ${*} brightgreen
+    keyword linestart \t lightgray red
+    keyword whole @+@ brightmagenta black
+    keyword @+@ brightmagenta black
+
+# shell code
+context exclusive linestart \t \n
+    keyword \\\n yellow
+    keyword $$ brightcyan
+    keyword $(*) yellow
+    keyword ${*} brightgreen
+    keyword linestart \t lightgray red
+    keyword whole @+@ brightmagenta black
+    keyword @+@ brightmagenta black
