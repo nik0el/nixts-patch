@@ -1,6 +1,8 @@
 Патч для Thinstation (дистрибутив Linux, разработанный специально для создания тонких клиентов.)
 
+
 Заметки:
+
 1. В файле /ts/TS_ENV изменена локаль: export LANG=ru_RU.UTF-8
 
 2. В файле /ts/build/packages/base/etc/profile добавлен русский шрифт для консоли: setfont /lib/kbd/consolefonts/LatArCyrHeb-16.psfu.gz
