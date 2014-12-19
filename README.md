@@ -28,7 +28,7 @@ freerdp.global и freerdp.window (опции можно посмотреть в 
 
 10. Поправлена кодировка для флэшек в файле /ts/build/packages/automount/etc/udev/scripts/scsi.sh
 
-11. Автоматический поиск конфигов при загрузки с флэшки или диска, это два файла /ts/build/packages/base/bin/pkg и /ts/build/packages/base/etc/init.d/profile_setup
+11. Автоматический поиск конфигов при загрузки с флэшки или диска, скрипт /ts/build/packages/base/etc/init.d/profile_setup
 
 12. Изменена последовательность запуска скриптов настройки сети в пакете autonet (настройки сети происходили раньше применения файлов конфигурации)
 
