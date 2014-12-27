@@ -1,0 +1,157 @@
+#! /bin/sh
+
+. $TS_GLOBAL
+
+case "$1" in  
+init)
+    if ! pkg_initialized $PACKAGE; then
+      mount -n -t usbfs /proc/bus/usb /proc/bus/usb
+      SANE_ENABLED=`make_caps $SANE_ENABLED`
+      if [ "$SANE_ENABLED" = "ON" ] ; then
+	echo "sane 	6566/tcp # SANE network scanner daemon" >>/etc/services
+	if [ -n "$SANE_SCANNER" ] ; then
+	    echo $SANE_SCANNER > /etc/sane.d/dll.conf
+	fi
+        if [ -n "$SANE_REMOTE_ACCESS_FROM" ] ; then
+            echo $SANE_REMOTE_ACCESS_FROM >> /etc/sane.d/saned.conf
+        fi
+							
+	{
+	 echo "service sane"
+	 echo "{"
+	 echo "    disable     = no"
+	 echo "    socket_type = stream"
+	 echo "    wait        = no"
+	 echo "    user        = root"
+	 echo "    server      = /bin/saned"
+	 echo "    protocol    = tcp"
+	 echo "}"
+	}> /etc/xinetd.d/sane
+      fi
+      if [ ! -d /var/lock/sane ] ; then
+        mkdir -p /var/lock/sane
+      fi
+      pkg_set_init_flag $PACKAGE
+
+      if [ -n "$SANE_SCANNER" ] && [ -n "$SANE_FIRMWARE" ] ; then
+		echo firmware /lib/firmware/sane/snapscan/$SANE_FIRMWARE >> /etc/sane.d/${SANE_SCANNER}.conf
+      else
+     	if [ "$SANE_SCANNER" = "snapscan" ] ; then
+	SFS=$(/bin/sane-find-scanner | grep "found USB" | sed 's/ //g')
+	SCN=$SFS
+	POSIT=$(expr index "$SCN" =)
+	POSIT=$(($POSIT+1))
+	VEND=`expr substr $SCN $POSIT 6`
+	SCN=$(echo $SFS | sed 's/=//')
+	POSIT=$(expr index "$SCN" =)
+	POSIT=$(($POSIT+1))
+	PROD=`expr substr $SCN $POSIT 6`
+	
+      	case "$VEND" in
+        	0x04a5 ) #Acer
+		    case "$PROD" in
+			0x1a20 ) FIRMW="u34v110.bin";;
+			0x2022 ) FIRMW="u34v110.bin";;
+			0x2060 ) FIRMW="u96v121.bin";;
+			0x207e ) FIRMW="u126v043.bin";;
+			0x20be ) FIRMW="u190v044.bin";;
+			0x207e ) FIRMW="u126v043.bin";;
+			0x20c0 ) FIRMW="u192v074.bin";;
+			0x20b0 ) FIRMW="u176v046.bin";;
+			0x20de ) FIRMW="u222v067.bin";;
+			0x20fc ) FIRMW="u252v065.bin";;
+			0x20f8 ) FIRMW="20F8V116.bin";;
+			0x20fe ) FIRMW="u254v042.bin";;
+    	 	   esac;;
+    		0x6bd ) #Agfa
+    		    case "$PROD" in
+			0x2061 ) FIRMW="snapscan_1212u_2.bin";;
+			0x2093 ) FIRMW="snape10.bin";;
+			0x2091 ) FIRMW="snape20.bin";;
+			0x2095 ) FIRMW="snape25.bin";;
+			0x2097 ) FIRMW="snape26.bin";;
+			0x208d ) FIRMW="snape40.bin";;
+			0x20ff ) FIRMW="snape42.bin";;
+			0x208f ) FIRMW="snape50.bin";;
+    	 	   esac;;
+    		0x04b8 ) #Epson
+    		    case "$PROD" in
+			0x0114 ) FIRMW="tail_058.bin";;
+			0x0120 ) FIRMW="esfw3e.bin";;
+			0x011f ) FIRMW="esfw30.bin";;
+			0x0121 ) FIRMW="esfw41.bin";;
+			0x0122 ) FIRMW="esfw52.bin";;
+    	   	 esac;;
+     	 esac
+      	echo >> /etc/sane.d/snapscan.conf
+      	echo "firmware /lib/firmware/sane/snapscan/$FIRMW" >> /etc/sane.d/snapscan.conf
+      	fi
+
+	if [ "$SANE_SCANNER" = "gt68xx" ] ; then
+	SFS=$(/bin/sane-find-scanner | grep "found USB" | sed 's/ //g')
+	SCN=$SFS
+	POSIT=$(expr index "$SCN" =)
+	POSIT=$(($POSIT+1))
+	VEND=`expr substr $SCN $POSIT 6`
+	SCN=$(echo $SFS | sed 's/=//')
+	POSIT=$(expr index "$SCN" =)
+	POSIT=$(($POSIT+1))
+	PROD=`expr substr $SCN $POSIT 6`
+	
+      	case "$VEND" in
+        	0x05d8 ) #Artec
+	    	    case "$PROD" in
+			0x4002 ) FIRMW="ePlus2k.usb";;
+    	   	   esac;;
+    		0x0458 ) #Genius
+    	    	    case "$PROD" in
+			0x2011 ) FIRMW="ccd548.fw";;
+			0x2017 ) FIRMW="ccd548.fw";;
+			0x2014 ) FIRMW="ccd68861.fw";;
+			0x201a ) FIRMW="ccd548.fw";;
+			0x201b ) FIRMW="ccd548.fw";;
+    	    	   esac;;
+    		0x043d ) #Lexmark
+    	    	    case "$PROD" in
+			0x002d ) FIRMW="OSLO3071b2.usb";;
+    	    	   esac;;
+    		0x055f ) #Mustek
+    	    	    case "$PROD" in
+			0x021e ) FIRMW="A1fw.usb";;
+			0x021c ) FIRMW="PS1Dfw.usb";;
+			0x021b ) FIRMW="PS1Gfw.usb";;
+			0x021e ) FIRMW="A1fw.usb";;
+			0x0218 ) FIRMW="A2fw.usb";;
+			0x0219 ) FIRMW="A2Dfw.usb";;
+			0x021d ) FIRMW="PS2Dfw2.usb";;
+			0x021a ) FIRMW="A2Nfw.usb";;
+			0x021f ) FIRMW="SBSfw.usb";;
+			0x0210 ) FIRMW="a32fw.usb";;
+    	    	   esac;;
+    		0x07b3 ) #Plustek
+    	    	    case "$PROD" in
+			0x0400 ) FIRMW="ccd548.fw";;
+			0x0401 ) FIRMW="ccd548.fw";;
+			0x0402 ) FIRMW="ccd68861.fw";;
+			0x0403 ) FIRMW="ccd68861.fw";;
+			0x040b ) FIRMW="ccd548.fw";;
+			0x0413 ) FIRMW="cism216.fw";;
+			0x0412 ) FIRMW="cism216.fw";;
+			0x0422 ) FIRMW="ccd548.fw";;
+    	    	   esac;;
+      	esac
+      	echo >> /etc/sane.d/snapscan.conf
+      	echo "firmware /lib/firmware/sane/gt68xx/$FIRMW" >> /etc/sane.d/gt68xx.conf
+      	fi
+      fi
+    fi
+    ;;
+help)
+    echo "Usage: $0 init"
+    ;;
+  *)
+    exit 1
+    ;;
+esac
+
+exit 0

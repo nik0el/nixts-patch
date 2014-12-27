@@ -1,0 +1,2439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta name="google-site-verification" content="OFTdFvZNtMm8Ibleom9KwsDtCb34N5dH8RHUyEy8gzE" />
+<meta name="msvalidate.01" content="C9975ABE555C07DD500F64189EE3C419" />
+<link rel="canonical" href="http://www.freenet.de/" />
+<script type="text/javascript" class="ad">
+/* AdSense vars */
+var google_analytics_domain_name=".freenet.de";
+var google_analytics_uacct="UA-17790434-9";
+/* GA Code */
+var _gaq = _gaq || [];
+_gaq.push(
+/* first tracker: channel */
+['gat_ch._setAccount', google_analytics_uacct],
+['gat_ch._anonymizeIp'],
+['gat_ch._setDomainName', google_analytics_domain_name],
+['gat_ch._trackPageview'],
+/* second tracker: portal */
+['gat_p._setAccount', 'UA-17790434-13'],
+['gat_p._anonymizeIp'],
+['gat_p._setDomainName', google_analytics_domain_name],
+['gat_p._trackPageview']
+);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> <meta name="robots" content="index, follow, noodp, noydir" /> <meta http-equiv="content-language" content="de" /> <meta name="audience" content="Alle" /> <meta name="language" content="de" /> <meta name="rating" content="General" /> <meta name="distribution" content="global" /> <meta name="resource-type" content="document" /> <meta name="allow-search" content="yes" /> <meta name="copyright" content="freenet.de GmbH" /> <meta name="organization" content="freenet.de GmbH" /> <meta name="author" content="freenet.de - freenet" /> <meta name="publisher" content="freenet.de - freenet" /> <meta name="revisit-after" content="1 day" /> <meta property="fb:app_id" content="140319285993092" /> <meta property="fb:admins" content="1195671585, 100000487061078, 100000318309384" /> <meta name="application-name" content="freenet.de" /> <meta name="msapplication-tooltip" content="Starte freenet.de im Sitemodus" /> <meta name="msapplication-starturl" content="http://www.freenet.de/" /> <link rel="shortcut icon" type="image/x-icon" href="https://secure.freenet.de/contentblob/2402502/data/freenet_32x32.ico" /> <meta name="description" content="Kostenlose E-Mail Adresse, beliebte Singlebörse und aktuelle Nachrichten aus Politik, Sport und Wirtschaft sowie News und Trends zu Auto, Lifestyle und Technik." />
+<meta name="abstract" content="Kostenlose E-Mail Adresse, beliebte Singlebörse und aktuelle Nachrichten aus Politik, Sport und Wirtschaft sowie News und Trends zu Auto, Lifestyle und Technik." />
+<meta name="keywords" content="E-Mail, Singles, Community, Domain, Nachrichten, Finanzen, Leben, PC-Sicherheit, Wetter, Auto, Unterhaltung, Musik-Download, Sport, Horoskope, Grußkarten, Gaming"/>
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Kostenlose E-Mail Adresse, beliebte Singlebörse und aktuelle Nachrichten aus Politik, Sport und Wirtschaft sowie News und Trends zu Auto, Lifestyle und Technik." />
+<meta property="og:title" content="freenet.de - E-Mail, Singles, Nachrichten &amp; Services" />
+<meta property="og:site_name" content="freenet.de Startseite" />
+<meta property="og:image" content="http://blob.freenet.de/contentblob/1973262/data/freenet_fb_logo.png" />
+<title>freenet.de - E-Mail, Singles, Nachrichten &amp; Services</title>
+<link rel="meta" href="http://www1.freenet.de/labels.rdf" type="application/rdf+xml" title="ICRA labels" />
+<link rel="stylesheet" type="text/css" href="http://code.freent.de/code/1148150/136952313267811231382091/frn_global_lib2.css" />
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://code.freent.de/code/2901932/2/ie7fixes.css"  />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://code.freent.de/code/323614/5/frn_artikel_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="http://code.freent.de/code/1181896/11211911818781/frn_www_lib.css" />
+<link rel="stylesheet" type="text/css" href="http://code.freent.de/code/488808/23/suche.css" />
+<!-- start[head] -->
+<!-- end[head] -->
+<script type="text/javascript" src="http://adserver.freenet.de/praeludium/praeludium_fn.js"></script>
+<script type="text/javascript" src="http://code.freent.de/code/46552/1942153121031273/JQuery.js"></script>
+<script type="text/javascript" src="http://code.freent.de/code/3150662/525426461528123/MainLib.js"></script>
+<script type="text/javascript" src="http://code.freent.de/code/1384032/81053/frn_www_lib.js"></script>
+<script type="text/javascript" src="http://cds2.freenet.de/www/export/stace.php?id=37&amp;blockcampaign=1&amp;target=_blank"></script>
+<!-- @@ partnerHead @@ -->
+</head>
+<body>
+<div id="frnIVW">
+<!-- IVW VERSION="1.4" -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var IVW="http://freenet.ivwbox.de/cgi-bin/ivw/CP/90001731;http://www1.freenet.de/index.html";
+var zPix = new Image();
+zPix.src = IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000);
+/* ]]> */
+</script>
+<noscript>
+<img src="http://freenet.ivwbox.de/cgi-bin/ivw/CP/90001731;http://www1.freenet.de/index.html" width="1" height="1" alt="" />
+</noscript>
+<!-- /IVW -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var evCnt=["90001731","www","/index/index.html","p"];
+if (typeof(frn_Ivw) == "object" ) { frn_Ivw.setKeyVal('fCnt',false) };
+var ABA="http://abakus.freenet.de/cgi-bin/ivw/CP/freenet/www/coremedia/index/index.html";
+var zPix = new Image();
+zPix.src = ABA+"?pt022ref="+escape(document.referrer) +"&d="+(Math.random()*100000);
+/* ]]> */
+</script>
+<noscript>
+<img src="http://abakus.freenet.de/cgi-bin/ivw/CP/freenet/www/coremedia/index/index.html?rd=-415660037&amp;pt022ref=" width="1" height="1" border="0" alt="" />
+</noscript>
+</div>
+<!-- PH FRABO --> <div id="frnMain">
+<div id="frnBanner">
+<div id="frnBannerAd">
+<div id="fnbanner">
+<script type="text/javascript" class="ad">
+/* <![CDATA[ */
+if (! frn046adxtra ) var frn046adxtra = "";
+var frn046enrich = (typeof pt027bw == 'undefined')? "&band=256"+frn046adxtra : "&band="+pt027bw+frn046adxtra;
+document.write('<scr' + 'ipt type="text/javascript" src="http://adserver.freenet.de/js.ng/site=fn&affiliate=fn_port&adset=bs&adset=f&prod=fn_port&tbl=channel&ppos=1'+frn046enrich+'"></scr' + 'ipt>');
+/* ]]> */
+</script>
+</div>
+</div>
+</div>
+<div id="frnRahmen">
+<div id="frnKopf_Neu" >
+<div id="frnKopfRechts">
+<div id="frnLogo">
+<img src="http://blob.freent.de/contentblob/1228574/original/freenet-logo.gif" width="158" height="30" alt="" />
+</div>
+<div id="frnKopfLogo">
+<div id="frnKopfLinkleiste">
+<a id="makeHomepage" href="#" title="freenet.de - DSL Internet E-Mail Nachrichten Chat Shopping und alle aktuellen Themen" onclick="javascript: freenet_Homepage();">freenet als Startseite</a>
+<div id="frnMakeStartLayer" style="display: none;" onclick="document.getElementById('frnMakeStartLayer').style.display = 'none'; ">
+<div id="frnMakeStartLayerLogo">
+<a href="http://www.freenet.de" onclick="return false;" title="logo"></a>
+</div>
+<div class="frn_frnMakeText">
+<ol>
+<li>Ziehen Sie das freenet Symbol auf das Haus-Symbol des Browsers.</li>
+<li>Wählen Sie <strong>&quot;Ja&quot;</strong> im Popup-Fenster aus</li>
+</ol>
+Fertig!
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+function freenet_Homepage(evt) {
+if (BrowserDetect.browser == 'Explorer' || BrowserDetect.browser == 'freenetIE'){
+document.getElementById('makeHomepage').style.behavior = "url(#default#homepage)";
+document.getElementById('makeHomepage').setHomePage('http://www.freenet.de');
+return false;
+} else {
+document.getElementById('frnMakeStartLayer').style.display = 'block';
+return false;
+}
+}
+/* ]]> */
+</script>
+<span>&nbsp;|&nbsp;</span> <a href="javascript:void(0)" onclick="window.open('http://dienste.freenet.de/rss/index.html')">RSS</a>
+<span>&nbsp;|&nbsp;</span> <a href="javascript:void(0)" onclick="window.open('http://mobilportal.freenet.de/index.html')">Mobilportal</a>
+<span>&nbsp;|&nbsp;</span> <a href="http://www.iphone.de" title="iPhone.de" target="_blank">iPhone.de</a>
+<span>&nbsp;|&nbsp;</span> <a href="javascript:void(0)" onclick="window.open('http://software.freenet.de/index.html')">Software</a>
+<span>&nbsp;|&nbsp;</span> <a href="javascript:void(0)" onclick="window.open('http://www.freenet.de/festnetz/index.html')">Festnetz</a>
+<span>&nbsp;|&nbsp;</span> <a target="_blank" href="https://shop.mobilcom-debitel.de/online-shop/handys/" title="Handys">Handys</a>
+<span>&nbsp;|&nbsp;</span> <a href="http://kundenservice.freenet.de/index.html" title="freenet Kundenservice"><strong>Kundenservice</strong></a>
+<div id="frnHeadLogin" class="frn_header_top_right"><a href="http://www.freenet.de/index.html"><strong>Login</strong></a></div>
+<div class="frn_header_top_right">&nbsp;|&nbsp;</div>
+<div id="frnHeadAnrede" class="frn_header_top_right"><a class="getMail" href="http://email.freenet.de/index.html?pid=10343215018" title="freenet E-Mail">Kostenlose E-Mail sichern</a></div>
+<div id="frnHeadMail" class="frn_header_top_right_icon"><a href="http://email.freenet.de/index.html?pid=10344046018">E-Mail</a></div>
+<div id="frnHeadSingles" class="frn_header_top_right_icon"><a href="http://single.de/?pid=10344046012&amp;alternate=1&amp;utm_source=Portal_frn&amp;utm_medium=Externer_Link&amp;utm_content=Sngl_Index&amp;utm_campaign=frn_Startseite&amp;utm_term=Icon_Index_Header_Alternate1" target="_blank">Singles</a></div>
+<div id="frnHeadDomain" class="frn_header_top_right_icon"><a href="http://community.freenet.de/index.html?pid=10343246096">Community</a></div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var frnLogReq = (window.location.protocol=="https:") ? 'https://secure.freenet.de' : 'http://tls.freenet.de';
+document.write('<scr' + 'ipt type="text/javascript" src='+frnLogReq+'/PHP/Login/getJavaScript.php?z='+(Math.random()*100000)+'"></scr' + 'ipt>'); 
+/* ]]> */
+</script>
+<!-- @@ partnerEventCount @@ -->
+</div>
+<a href="http://www.freenet.de" id="frnKopfLogoLink" title="Startseite"></a>
+</div>
+<div id="frnKopfChannelPic"><a href="http://www1.freenet.de/index.html">Startseite</a></div>
+<div id="frnKopfWelcome"></div>
+<div class="frn_topnavi topnavi_888156">
+<ul id="frnKopfLeiste">
+<li id="frnKopfStartNeu" class="topnav_856820 active"><a href="http://www.freenet.de/index.html" onclick="" target="_self">Startseite</a></li>
+<li id="frnKopfNachrichten" class="topnav_856818 "><a href="http://nachrichten.freenet.de/index.html" onclick="" target="_self">Nachrichten</a></li>
+<li id="frnKopfSport" class="topnav_860850 "><a href="http://sport.freenet.de/index.html" onclick="" target="_self">Sport</a></li>
+<li id="frnKopfFinanzen" class="topnav_856690 "><a href="http://finanzen.freenet.de/index.html" onclick="" target="_self">Finanzen</a></li>
+<li id="frnKopfAuto" class="topnav_856686 "><a href="http://auto.freenet.de/index.html" onclick="" target="_self">Auto</a></li>
+<li id="frnKopfDigitalewelt" class="topnav_856678 "><a href="http://digitalewelt.freenet.de/index.html" onclick="" target="_self">Digitale Welt</a></li>
+<li id="frnKopfLeben" class="topnav_856654 "><a href="http://leben.freenet.de/index.html" onclick="" target="_self">Leben</a></li>
+<li id="frnKopfUnterhaltung" class="topnav_856656 "><a href="http://unterhaltung.freenet.de/index.html" onclick="" target="_self">Unterhaltung</a></li>
+<li id="frnKopfCommunityNeu1" class="topnav_1872110 "><a href="http://community.freenet.de/index.html?pid=10343243024" onclick="" target="_self">Community</a></li>
+<li id="frnKopfGaming" class="topnav_1858404 "><a href="http://tools.freenet.de/mod_perl/linker/freenet_navi_gaming/unterhaltung.freenet.de/gaming/index.html" onclick="" target="_self">Gaming</a></li>
+<li id="frnKopfDSL" class="topnav_856152 "><a href="http://dsl.freenet.de/index.html" onclick="" target="_self">DSL</a></li>
+<li id="frnKopfMehr" class="topnavclick_856562 "><a href="http://www1.freenet.de/abisz/index.html" onclick="" target="_self">Mehr <span class="frn_ico_nav_h_flyout">&nbsp;</span></a></li>
+</ul>
+<div class="frn_topnavi_subnav topnav_856818 flyout_by_hover">
+<div class="frn_flyColumn">
+<a href="http://nachrichten.freenet.de/politik/index.html" target="_self">Politik</a>
+<a href="http://nachrichten.freenet.de/wirtschaft/index.html" target="_self">Wirtschaft</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://nachrichten.freenet.de/vermischtes/index.html" target="_self">Vermischtes</a>
+<a href="http://nachrichten.freenet.de/wetter/index.html" target="_self">Wetter</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://nachrichten.freenet.de/wissenschaft/index.html" target="_self">Wissenschaft</a>
+<a href="http://lexikon.freenet.de" target="_self">Lexikon</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn frn_flyLast">
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<a href="http://nachrichten.freenet.de/index.html" title="Nachrichten" target="_self" class="frn_flyMore">Nachrichten</a>
+<div class="frn_closing" title="Schließen"></div>
+</div>
+<div class="frn_topnavi_subnav topnav_860850 flyout_by_hover">
+<div class="frn_flyColumn">
+<a href="http://sport.freenet.de/fussball/bundesliga/index.html " target="_self">Bundesliga</a>
+<a href="http://sport.freenet.de/fussball/index.html " target="_self">Fußball</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://sport.freenet.de/formeleins/index.html " target="_self">Formel 1</a>
+<a href="http://sport.freenet.de/sportmix/index.html " target="_self">Sportmix</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://abpfiff.freenet.de" target="_self">Abpfiff</a>
+<a href="http://sport.freenet.de/datencenter/index.html " target="_self">Datencenter</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn frn_flyLast">
+<a href="http://forum.freenet.de/forumdisplay.php?f=25" target="_self">Forum</a>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<a href="http://sport.freenet.de/index.html" title="Sport" target="_self" class="frn_flyMore">Sport</a>
+<div class="frn_closing" title="Schließen"></div>
+</div>
+<div class="frn_topnavi_subnav topnav_856690 flyout_by_hover">
+<div class="frn_flyColumn">
+<a href="http://boerse.freenet.de/" target="_self">Börse</a>
+<a href="http://musterdepot.freenet.de" target="_self">Musterdepot</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://finanzen.freenet.de/immobilien/index.html" target="_self">Immobilien</a>
+<a href="http://finanzen.freenet.de/jobs-karriere/index.html" target="_self">Jobs &amp; Karriere</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://finanzen.freenet.de/kredit-banking/index.html" target="_self">Kredit &amp; Banking</a>
+<a href="http://finanzen.freenet.de/recht-steuern/index.html" target="_self">Recht &amp; Steuern</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn frn_flyLast">
+<a href="http://finanzen.freenet.de/versicherung/index.html" target="_self">Versicherung</a>
+<a href="http://finanzen.freenet.de/spartipps/index.html" target="_self">Spartipps</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<a href="http://finanzen.freenet.de/index.html" title="Finanzen" target="_self" class="frn_flyMore">Finanzen</a>
+<div class="frn_closing" title="Schließen"></div>
+</div>
+<div class="frn_topnavi_subnav topnav_856686 flyout_by_hover">
+<div class="frn_flyColumn">
+<a href="http://auto.freenet.de/news/index.html" target="_self">News</a>
+<a href="http://auto.freenet.de/tests/index.html" target="_self">Tests</a>
+<a href="http://auto.freenet.de/magazin/index.html" target="_self">Magazin</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://auto.freenet.de/automarkt/index.html" target="_self">Automarkt</a>
+<a href="http://auto.freenet.de/markenmodelle/index.html" target="_self">Marken &amp; Modelle</a>
+<a href="http://auto.freenet.de/service/index.html" target="_self">Service</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://fahrschule.freenet.de" target="_self">Führerscheintest</a>
+<a href="http://auto.freenet.de/motorsport/index.html" target="_self">Motorsport</a>
+<a href="http://auto.freenet.de/motorrad/index.html" target="_self">Motorrad</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn frn_flyLast">
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<a href="http://auto.freenet.de/index.html" title="Auto" target="_self" class="frn_flyMore">Auto</a>
+<div class="frn_closing" title="Schließen"></div>
+</div>
+<div class="frn_topnavi_subnav topnav_856678 flyout_by_hover">
+<div class="frn_flyColumn">
+<a href="http://download.freenet.de" target="_self">Download</a>
+<a href="http://digitalewelt.freenet.de/computerzubehoer/index.html" target="_self">Computer &amp; Zubehör</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://digitalewelt.freenet.de/softwareos/index.html" target="_self">Software &amp; OS</a>
+<a href="http://digitalewelt.freenet.de/handymobiles/index.html" target="_self">Handy &amp; Mobiles</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://digitalewelt.freenet.de/app-store/index.html" target="_self">App Store</a>
+<a href="http://digitalewelt.freenet.de/audiovideofoto/index.html" target="_self">Audio, Video, Foto</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn frn_flyLast">
+<a href="http://digitalewelt.freenet.de/sicherheit/index.html" target="_self">Sicherheit</a>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<a href="http://digitalewelt.freenet.de/index.html" title="Digitale Welt" target="_self" class="frn_flyMore">Digitale Welt</a>
+<div class="frn_closing" title="Schließen"></div>
+</div>
+<div class="frn_topnavi_subnav topnav_856654 flyout_by_hover">
+<div class="frn_flyColumn">
+<a href="http://leben.freenet.de/maennerlifestyle/index.html" target="_self">Männer Lifestyle</a>
+<a href="http://leben.freenet.de/frauenlifestyle/index.html" target="_self">Frauen Lifestyle</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://leben.freenet.de/reisen/index.html" target="_self">Reisen</a>
+<a href="http://leben.freenet.de/outdoor/index.html" target="_self">Outdoor</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://leben.freenet.de/gesundheit/index.html" target="_self">Gesundheit</a>
+<a href="http://horoskope.freenet.de/" target="_self">Horoskop</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn frn_flyLast">
+<a href="http://www.zeitschriften-abo.com/freenet/" target="_self">Zeitschriften</a>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<a href="http://leben.freenet.de/index.html" title="Leben" target="_self" class="frn_flyMore">Leben</a>
+<div class="frn_closing" title="Schließen"></div>
+</div>
+<div class="frn_topnavi_subnav topnav_856656 flyout_by_hover">
+<div class="frn_flyColumn">
+<a href="http://unterhaltung.freenet.de/boulevard/index.html" target="_self">Boulevard</a>
+<a href="http://unterhaltung.freenet.de/kino/index.html" target="_self">Kino</a>
+<a href="http://tv-programm.freenet.de/" target="_self">TV-Programm</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://unterhaltung.freenet.de/gewinnspiele/index.html" target="_self">Gewinnspiele</a>
+<a href="http://unterhaltung.freenet.de/gaming/index.html" target="_self">Gaming</a>
+<a href="http://mload.freenet.de/fw/" target="_self">mload</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://erotik.freenet.de/freenet/index.html" target="_self">Erotik</a>
+<a href="http://radio.freenet.de" target="_self">Radio</a>
+<a href="http://unterhaltung.freenet.de/video/index.html" target="_self">Video</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn frn_flyLast">
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<a href="http://unterhaltung.freenet.de/index.html" title="Unterhaltung" target="_self" class="frn_flyMore">Unterhaltung</a>
+<div class="frn_closing" title="Schließen"></div>
+</div>
+<div class="frn_topnavi_subnav topnav_1872110 flyout_by_hover">
+<div class="frn_flyColumn">
+<a href="http://singles.freenet.de/index.html?pid=10343243012&amp;quelle=portal&amp;methode=cpa&amp;kampagne=kopf-frn&amp;beschreibung=icon" target="_self">Singles</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://chat.freenet.de?pid=10343243020 " target="_self">Chat</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://forum.freenet.de" target="_self">Forum</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn frn_flyLast">
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<a href="http://community.freenet.de/index.html?pid=10343243024" title="Community" target="_self" class="frn_flyMore">Community</a>
+<div class="frn_closing" title="Schließen"></div>
+</div>
+<div class="frn_topnavi_subnav topnavclick_856562 flyout_by_click">
+<div class="frn_flyColumn">
+<a href="http://digitalewelt.freenet.de/app-store/index.html" target="_self">App Store</a>
+<a href="http://leben.freenet.de/service/brueckentage2012/index.html" target="_self">Brückentage 2012</a>
+<a href="http://www.browsergamer.com/" target="_self">Browsergames</a>
+<a href="http://sport.freenet.de/fussball/bundesliga/index.html" target="_self">Bundesliga</a>
+<a href="http://auto.freenet.de/service/bussgeldkatalog/index.html" target="_self">Bußgeldkatalog</a>
+<a href="https://www.jaxx.com/de/euromillions/euromillions.html?mc=eumi_mehr&amp;partnerID=6161&amp;et=r6mUBV&amp;et_cid=76&amp;et_lid=10137&amp;et_sub=eumi_mehr" target="_self">EuroMillions</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://farmerama.freenet.de" target="_self">Farmerama</a>
+<a href="http://finanzen.freenet.de/spartipps/finanzrechner/index.html" target="_self">Finanzrechner</a>
+<a href="http://www.freenetphone.de/" target="_self">freenet Phone</a>
+<a href="http://fahrschule.freenet.de" target="_self">Führerscheintest</a>
+<a href="http://gasvergleich.freenet.de/" target="_self">Gasvergleich</a>
+<a href="http://finanzen.freenet.de/gez/index.html" target="_self">GEZ-Gebühr Infos</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://grusskarten.freenet.de/" target="_self">Grußkarten</a>
+<a href="http://www.freenetmobile.de/index.html" target="_self">Handy Vertrag</a>
+<a href="http://suche.freenet.de/handy/" target="_self">Handyvergleich</a>
+<a href="http://openholidayguide.freenet.de" target="_self">Hotelbewertungen</a>
+<a href="http://forward.immobilienscout24.de/portal|immobilienboerse.freenet.de|0/2006JMP/marktplatz/freenet/index.jsp?is24EC=freenet" target="_self">Immobilienbörse</a>
+<a href="http://www.freenet.de/freenetsoftware/browser/index.html" target="_self">Internet Browser</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://www.freenet.de/freenet/zugang/index.html " target="_self">Internet Zugang</a>
+<a href="http://nachrichten.freenet.de/wissenschaft/iqtest/index.html" target="_self">IQ-Test</a>
+<a href="http://mload.freenet.de/fw/goto/ringtones" target="_self">Klingeltöne &amp; Logos</a>
+<a href="http://horoskope.freenet.de/liebes-horoskope/index.html" target="_self">Liebeshoroskope</a>
+<a href="https://www.jaxx.com/de/lottotipp/lottotipp.html?mc=lotto_mehr&amp;partnerID=6161&amp;et=r6mUBV&amp;et_cid=76&amp;et_lid=10137&amp;et_sub=lotto_mehr" target="_self">Lotto-Wette</a>
+<a href="http://mobilportal.freenet.de/mailmobil/index.html" target="_self">Mobile Mail</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<a href="http://unterhaltung.freenet.de/gaming/pausenspiele/index.html" target="_self">Pausenspiele</a>
+<a href="http://leben.freenet.de/reisen/reisebuero/index.html" target="_self">Reisebüro</a>
+<a href="http://nachrichten.freenet.de/wetter/reisewetter/index.html" target="_self">Reisewetter</a>
+<a href="http://routenplaner.freenet.de" target="_self">Routenplaner</a>
+<a href="http://www.freenetmobile.de/mobiltarif/index.html" target="_self">SIM Karte</a>
+<a href="http://media.mybet.com/redirect.aspx?pid=5563&amp;bid=1723" target="_blank">Sportwetten</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn frn_flyLast">
+<a href="http://unterhaltung.freenet.de/starlexikon/index.html" target="_self">Starlexikon</a>
+<a href="http://jobboerse.freenet.de/" target="_self">Stellenangebote</a>
+<a href="http://stromvergleich.freenet.de/ " target="_self">Stromvergleich</a>
+<a href="http://www.freenetmobile.de/surfstick/index.html" target="_self">Surfstick</a>
+<a href="http://unterhaltung.freenet.de/gaming/index.html" target="_self">Gaming</a>
+<a href="http://zoomumba.freenet.de" target="_self">Zoomumba</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_flyColumn">
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<a href="http://www1.freenet.de/abisz/index.html" title="Mehr" target="_self" class="frn_flyMore">Alles von A-Z</a>
+<div class="frn_closing" title="Schließen"></div>
+</div>
+</div>
+<!-- HTML --> <div id="frnKopfSuch">
+<div class="frn_searchBackLeft"></div>
+<div class="frn_headSearch">
+<div class="frn_searchHeadNavi"> <a href="javascript:SearchChange('web')" class="searchChoise" id="web" target="_self" title=""><span class="linkText">Web</span></a>
+<a href="javascript:SearchChange('chansearch')" id="chansearch" target="_self" title="" style="display: none;"><span>|&nbsp;&nbsp;</span><span class="linkText chansearchlabel">freenet.de</span></a>
+<a href="javascript:SearchChange('bilder')" id="bilder" target="_self" title="" style="display: none;"><span>|&nbsp;&nbsp;</span><span class="linkText">Bilder</span> </a>
+<a href="javascript:SearchChange('ebay')" id="ebay" target="_self" title="" style="display: none;"><span>|&nbsp;&nbsp;</span><span class="linkText">eBay-Angebote</span></a>
+<a href="javascript:SearchChange('video')" id="video" target="_self" title=""><span>|&nbsp;&nbsp;</span><span class="linkText">Videos</span></a>
+<a href="javascript:SearchChange('shopping')" id="shopping" target="_self" title=""><span>|&nbsp;&nbsp;</span><span class="linkText">Produkte</span></a>
+<!-- a href="javascript:SearchChange('maps')" id="maps" target="_self" title=""><span>|&nbsp;&nbsp;</span><span class="linkText">Maps</span></a -->
+<a href="http://www.freenet.de/suche/index.html?search_type=alle" id="mehr" target="_self" title="" style="display: none;"><span>|&nbsp;&nbsp;</span>Mehr</a>
+</div>
+<div class="frn_searchHeadForm">
+<form name="f" method="get" action="http://tools.freenet.de/mod_perl/linker/freenet_startseite_suchbutton/suche.freenet.de/suche" id="frn_searchTarget" target="_top">
+<span id="frnSearchHeadNorm" style="display:block;">
+<input name="query" type="text" id="suchfeld" />
+<input name="query2" type="text" id="suchfeld2" />
+<input type="hidden" name="search_type" value="" id="frn_searchType" />
+<input type="hidden" name="Partner" value="freenet" />
+<input type="hidden" name="country" value="" id="frnCountry" />
+<input type="hidden" name="fref" value="" id="frnFref" />
+<input type="hidden" name="vs" value="" id="frnVs" />
+</span>
+<div class="frn_searchButton" onclick="parentNode.submit()"><input type="submit" value=" Suchen " /></div>
+</form>
+</div>
+</div>
+<div id="frnKopfLogin"></div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */ freenetTopSearchInit(); /* ]]> */</script>
+</div>
+</div>
+<div class="frn_mainNav_h e1">
+<div class="frn_nav_h">
+<div class="frn_navLine_h"></div>
+<ul>
+<li id="current" class="nav_h_uebersicht"><a href="http://www1.freenet.de/index.html">Übersicht</a></li>
+<li class="nav_h_1_2358342"><a href="http://email.freenet.de/index.html?pid=10343260018" target="_blank">E-Mail </a></li>
+<li class="nav_h_1_901812"><a href="http://single.de/?pid=11100" target="_blank">Singles </a></li>
+<li class="nav_h_1_901828"><a href="http://www.freenetmobile.de/index.html?pid=20412918014" target="_blank">Handy Vertrag </a></li>
+<li class="nav_h_1_857860"><a href="http://sicherheit.freenet.de/index.html?pid=10343256017" target="_self">PC-Sicherheit </a></li>
+<li class="nav_h_1_2451376"><a href="http://domain.freenet.de/index.html?pid=10343256023" target="_self">Domain </a></li>
+<li class="nav_h_1_1112856"><a href="http://digitalewelt.freenet.de/app-store/index.html" target="_self">App Store </a></li>
+<li class="nav_h_1_3447460"><a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_navigation_wohnungen/forward.immobilienscout24.de/portal|immobilienboerse.freenet.de|0/2006PNI/marktplatz/freenet/index.jsp?is24EC=freenet" target="_self">Wohnungen </a></li>
+<li class="nav_h_1_2031558"><a href="https://www.jaxx.com/de/euromillions/euromillions.html?mc=eumi_navi_start&amp;partnerID=6161&amp;et=r6mUBV&amp;et_cid=76&amp;et_lid=10137&amp;et_sub=eumi_navi_start" target="_blank">EuroMillions </a></li>
+<li class="nav_h_1_3400350"><a href="https://deals.freenet.de" target="_self">Deals </a></li>
+<li class="nav_h_1_857848"><a href="http://wetter.freenet.de/index.html" target="_self">Wetter </a></li>
+<li class="nav_h_1_901826"><a href="http://horoskope.freenet.de/" target="_self">Horoskop </a></li>
+<li class="nav_h_1_1040682"><a href="http://shopping.freenet.de/" target="_self">Shopping </a></li>
+<li class="nav_h_1_857864"><a href="http://tippspiel.freenet.de" target="_self">Tippspiel </a></li>
+<li><div class="frn_navFiller"></div></li>
+</ul>
+</div>
+<div class="frn_subnav_group">
+</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+initThemenFlyout();
+initNaviHorizontal();
+/* ]]> */
+</script>
+<div style="clear: both;"></div>
+<ul id="frnBreadcrumb" class="e1">
+<li class="first"><a href="http://www1.freenet.de/index.html"><h1>Startseite</h1></a></li>
+<!-- start[breadcrumb] -->
+<!-- end[breadcrumb] -->
+</ul>
+<!-- promotion -->
+<div id="frnHockeyAd">
+<div id="adBox16" class="frn_adbox">
+<div id="fXm_ppos16Anz" class="frn_adboxHead">Anzeige</div>
+<script type="text/javascript" class="ad">
+/* <![CDATA[ */
+if (! frn046adxtra ) var frn046adxtra = "";
+var frn046enrich = (typeof pt027bw == 'undefined')? "&band=256"+frn046adxtra : "&band="+pt027bw+frn046adxtra;
+var frn046enrich = (typeof frn046tie == 'undefined')? "&tie=free"+frn046enrich : "&tie="+frn046tie+frn046enrich;
+document.write('<scr' + 'ipt type="text/javascript" src="http://adserver.freenet.de/js.ng/site=fn&affiliate=fn_port&prod=fn_port&tbl=channel&ppos=16'+frn046enrich+'"></scr' + 'ipt>');
+/* ]]> */
+</script>
+</div>
+</div>
+<!-- /promotion -->
+<!-- bo Layouttable -->
+<div id="frnContentGutter">
+<div id="frnContentTop">
+<div class="lay4">
+<script type='text/javascript'>/* <![CDATA[ */  FRN_APPEND(100,'frnContentTop');  /* ]]> */</script>
+</div>
+</div>
+<div id="frnTopic" class="frn_col5_typ2MR ">
+<div id="frnContentMain" class="frn_col5_typ2M">
+<!-- CONTENT[ -->
+<div class="lay5">	<div class="frn_cont frn_col5 frn_typ2 frn_cont_noborder frn_contLoginBox email" id="frnLoginRightBox">
+<div class="frn_contHead logMail"><strong>E-Mail</strong>
+<ul class="frn_login_flyout">
+<li>
+<div class="frn_login_flyout_icon"></div>
+<ul class="">
+<li><a id="frnMailLink" class="logMail" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_loginkasten_mail/webmail.freenet.de/login/index.html">E-Mail</a></li>
+<li><a class="logCom" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_loginkasten_community/community.freenet.de/freunde-finden/index.html">Community</a></li>
+<li><a class="logSc" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_loginkasten_singles/single.de/Index/login?redirect=%2F">Singles</a></li>
+<li><a class="logCh" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_loginkasten_chat/chat.freenet.de">Chat</a></li>
+<li><a class="logDo" href="http://domain.freenet.de">Hosting</a></li>
+</ul>
+</li>
+</ul>
+<span class="frn_login_ssl"><span class="frn_login_ssl_flyout" style="font-size:11px;color:#333333;">Ihre Daten (<i>Login und Passwort</i>) werden beim Login-Vorgang automatisch SSL (<i>Secure Sockets Layer</i>) verschlüsselt und damit sicher vor fremden Zugriffen übertragen! Sie haben zusätzlich auch die Möglichkeit, den Verlauf Ihrer gesamten Nutzung (<i>Session</i>) per SSL-Verschlüsselung abzusichern. Damit werden auch Ihre gesamten E-Mails gesichert übertragen. <br /><br /><span class="frn_login_ssl_flyout_switch">&raquo; Zum Session-SSL wechseln</span></span></span>
+<span class="frn_login_help"><a href="http://kundenservice.freenet.de/hilfe/allgemeines/index.html" target="_blank"></a></span>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="frn_loginBox" style="padding:12px 6px 0 6px;">
+<div id="loginStatus" class="frn_login_status" style="display:none;">
+<h3 id="loginSatusHeadline">Login fehlgeschlagen!</h3>
+<div id="loginSatusText" class="frn_login_status_text"></div>
+<div class="frn_loginBoxTrenner"></div>
+<a href="https://reg.webmail.freenet.de/freenet/PasswordForgot">freenetMail Passwort vergessen?</a>
+<a class="frn_login_status_button" href="#"></a>
+<div class="clearBoth"></div>
+</div>
+<div>
+<form method="post" action="https://auth.freenet.de/portal/login.php" name="loginform" style="margin:0px;" onsubmit="checkLogin(username.value)">
+<input id="frnLoginWorld" type="hidden" name="world" value="2" />
+<input id="frnLoginCbi" type="hidden" name="cbi" value="logMail" />
+<input id="frnLoginCallback" type="hidden" name="callback" value="http://tools.freenet.de/mod_perl/linker/freenet_startseite_loginkasten_mail/webmail.freenet.de/login/index.html" />
+<input id="frnLoginUsername" type="text" name="username" class="namensfeld" value="E-Mail Adresse" onfocus="loginFocused=true;if(this.value==defaultValue)this.value='';" maxlength="60" tabindex="1" />
+<input id="passtext" style="display:none" type="text" name="passtext" class="pwfeld" value="Passwort" maxlength="60" tabindex="2" />
+<input id="passpass" type="password" tabindex="2" name="password" class="pwfeld" maxlength="60" /> <script type="text/javascript">
+/* <![CDATA[ */ 
+$('#passtext').show().focus(function() {
+$(this).hide();
+$('#passpass').show().focus();
+});
+$('#passpass').hide().blur(function() {
+if($(this).val() == '') {
+$('#passtext').show();
+$(this).hide();
+}
+});
+/* ]]> */
+</script>
+<input id="frnLoginSubmit" type="image" src="http://blob.freent.de/contentblob/2038354/data/bt-login3.gif" style="width131px;height:20px;" tabindex="4" alt="" /><br /> <div class="clearing"></div>
+<div style="float:left;margin:0px;">
+<div class="clear"></div>
+</div>
+</form>
+</div>
+<div class="clearing"></div>
+<div class="frn_subLogin">
+<a href="https://reg.webmail.freenet.de/freenet/PasswordForgot">freenetMail Passwort vergessen?</a>
+</div>
+<div class="frn_loginBoxTrenner"></div>
+<div class="frn_loginBoxRegister">
+<a href="https://reg.webmail.freenet.de?mode=lpage&pid=10343240018&tid=2001004&funnel=login_box"><img src="http://blob.freent.de/contentblob/2890250/data/bt-registrieren.gif" width="298" height="20" border="0" alt="Kostenlose E-Mail sichern" /></a>
+</div>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+</div>
+</div>
+<div id="frnLoginRightBoxBottom">
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */ 
+if(!isInitLogin){initLogin();}
+if(insertLoginName){insertLogin();}
+/* ]]> */
+</script>
+<!-- bo eingeloggt -->
+<div class="frn_cont frn_col5 frn_typ2 frn_cont_noborder" id="frnLoggedInBox">
+<div class="frn_contHead"><strong><span id="frnLoggedToday" style="font-size:11px"></span></strong></div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="frn_loginBoxSuccess">
+<div class="frn_comInfo">
+<div class="frn_header_top_right " id="frnContentAnrede">
+<strong>Hallo,</strong> Sie sind eingeloggt!
+</div>
+</div>
+<div class="frn_comService" style="clear:both;width:295px;">
+<table id="frnLogMail">
+<tr>
+<td class="frn_loginPostfach"><a href="http://webmail.freenet.de/?goTo=showInbox" title="Postfach" id="frnComm1">Postfach</a></td>
+<td class="frn_loginSMS"><a href="http://webmail.freenet.de/?goTo=showSms" title="SMS" id="frnComm5">SMS</a></td>
+<td class="frn_loginMedien"><a href="http://webmail.freenet.de/?goTo=showMediacenter" title="Medien" id="frnComm4">Medien</a></td>
+</tr>
+<tr">
+<td class="frn_loginKalender"><a href="http://webmail.freenet.de/?goTo=showCalendar" title="Kalender" id="frnComm2">Kalender</a></td>
+<td class="frn_loginKontakte"><a href="http://webmail.freenet.de/?goTo=showContacts" title="Kontakte" id="frnComm3">Kontakte</a></td>
+<td class="frn_loginKarten"><a href="http://webmail.freenet.de/?goTo=showGreeting" title="Grußkarten" id="frnComm6">Grußkarten</a></td>
+</tr>
+</table>
+<table id="frnLogPortal">
+<tr>
+<td class="frn_loginChat"><a href="http://chat.freenet.de" title="Chat" id="frnComm7">Chat</a></td>
+<td class="frn_loginCommunity"><a href="http://community.freenet.de" title="Community" id="frnComm8">Community</a></td>
+<td class="frn_loginForum"><a href="http://forum.freenet.de" title="Forum" id="frnComm9">Forum</a></td>
+</tr>
+</table>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_loginBoxTrenner"></div>
+<a class="frn_login_button_logout" href="http://logout.freenet.de/"></a>
+</div> </div> </div>
+<script type="text/javascript">
+/* <![CDATA[ */ 
+if (login == true) {document.getElementById("frnLoggedInBox").style.display = "block"; insertBoxAnrede(); document.getElementById("frnLoggedToday").innerHTML=dtDatum;  jQuery('#frnContentAnrede br').remove();}
+if (frnworld && frnworld == "2") { document.getElementById("frnLogPortal").style.display = "none"; document.getElementById("frnLogMail").style.display = "block"; }
+/* ]]> */
+</script>
+<!-- eo eingeloggt -->
+<div class="frn_cont frn_col5 frn_typ3 frn_cont_noborder frn_cont_noheadbg frn_cont_nobgimage frn_cont_topAufmacher frn_cont_noteasertext " >
+<div class="frn_contInlett">
+<div class="clearBoth"></div>
+<div id="frnCycleElem_2933392_Umschalter" class="frn_cycle_elem_umschalter active1">
+<ul>
+<li class="item1">Einparken</li>
+<li class="item2">Neuer Golf</li>
+<li class="item3">SM-Buch</li>
+<li class="item4">News</li>
+<li class="item5">Sport</li>
+<li class="item6">Jackpot</li>
+<li class="item7">Spiel</li>
+</ul>
+</div>
+<div class="clearBoth"></div>
+<div id="frnCycleElem_2933392" class="frn_cycle_elem">
+<div class="frn_btTeaser frn_ttyp3 no_bhead umschaltTeaser " id="frnCycleTeaser_2933392_1" >
+<a href="http://auto.freenet.de/magazin/spielspass/frau-rast-beim-einparken-in-einen-fluss_3516124_553978.html" onclick="" target="_self" class="frn_teaserblock1 frn_linkArea" rel="Magazin">
+<span class="iconBCont iconBContVideo"></span>
+<img src="http://blob.freent.de/contentblob/3516122/teaserImg476x317/einparken-teaser.jpg" border="0" title="Frau rast beim Einparken in einen Fluß" alt="Frau rast beim Einparken in einen Fluß" width="460" height="307" />
+<br />
+<div class="bgUmschalt"></div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Von der Überwachungs-Kamera festgehalten
+</div>
+<div class="frn_teaserHeadline">
+<strong>Frau rast beim Einparken in einen Fluß</strong>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserblockAct" style="display:block;">
+Diese Frau schafft es, ihr Auto beim Einparken durch zwei Mauern hindurch in einen Fluß zu steuern. <strong>mehr &raquo;</strong>
+</span>
+</div>
+</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_btTeaser frn_ttyp3 no_bhead umschaltTeaser " id="frnCycleTeaser_2933392_2" >
+<a href="http://auto.freenet.de/news/erlkoenige/das-ist-der-neue-volkswagen_1053224_553870.html" onclick="" target="_self" class="frn_teaserblock1 frn_linkArea" rel="News">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3528374/teaserImg476x317/vw-golf-viiamsmdb625709d104a1d01412b24899f67fe874063d5d1.jpg" border="0" title="VW Golf VII: Das ist der neue Volks-Wagen" alt="VW Golf VII: Das ist der neue Volks-Wagen" width="460" height="307" />
+<br />
+<div class="bgUmschalt"></div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Neuer VW Golf VII auf dem Autosalon Paris
+</div>
+<div class="frn_teaserHeadline">
+<strong>VW Golf VII: Das ist der neue Volks-Wagen</strong>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserblockAct" style="display:block;">
+Gestern wurde der neue VW Golf erstmals gezeigt. Hier erfahren Sie alles über den neuen Bestseller! <strong>mehr &raquo;</strong>
+</span>
+</div>
+</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_btTeaser frn_ttyp3 no_bhead umschaltTeaser " id="frnCycleTeaser_2933392_3" >
+<a href="http://unterhaltung.freenet.de/boulevard/shades-of-grey-2-die-heissesten-sadomasozitate_3527452_705206.html" onclick="" target="_self" class="frn_teaserblock1 frn_linkArea" rel="Boulevard">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3527832/teaserImg476x317/james-900.jpg" border="0" title="&#034;Shades of Grey 2&#034;: Die heißesten Sadomaso-Zitate" alt="&#034;Shades of Grey 2&#034;: Die heißesten Sadomaso-Zitate" width="460" height="307" />
+<br />
+<div class="bgUmschalt"></div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Neuer Sex-Knüller kommt raus
+</div>
+<div class="frn_teaserHeadline">
+<strong>"Shades of Grey 2": Die heißesten Sadomaso-Zitate</strong>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserblockAct" style="display:block;">
+Mit "Gefährliche Liebe" kommt jetzt Band 2 von "Shades of Grey". Hier gibt es die heißesten Zitate. <strong>mehr &raquo;</strong>
+</span>
+</div>
+</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_btTeaser frn_ttyp3 no_bhead umschaltTeaser " id="frnCycleTeaser_2933392_4" >
+<a href="http://nachrichten.freenet.de/topnews/usdemokraten-brandmarken-romney-als-abgehoben_3528482_533312.html" onclick="" target="_self" class="frn_teaserblock1 frn_linkArea" rel="Topnews">
+<span class="iconBCont iconBContVideo"></span>
+<img src="http://blob.freent.de/contentblob/3528484/teaserImg476x317/first-lady-wirbt-um-zweite-amtszeit-fuer-obamaphoto-1346821838653hdjpg.jpg" border="0" title="US-Demokraten brandmarken Romney als abgehoben" alt="US-Demokraten brandmarken Romney als abgehoben" width="460" height="307" />
+<br />
+<div class="bgUmschalt"></div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+First Lady wirbt um Wiederwahl von Ehemann Obama
+</div>
+<div class="frn_teaserHeadline">
+<strong>US-Demokraten brandmarken Romney als abgehoben</strong>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserblockAct" style="display:block;">
+Angeführt von Michelle Obama haben die US-Demokraten zum Auftakt ihres Parteitags den ... <strong>mehr &raquo;</strong>
+</span>
+</div>
+</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_btTeaser frn_ttyp3 no_bhead umschaltTeaser " id="frnCycleTeaser_2933392_5" >
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/ne677524/oezil-kontert-em-kritik-wir-sind-keine-maschinen/index.html" onclick="" target="_self" class="frn_teaserblock1 frn_linkArea" rel="">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3528712/teaserImg476x317/oezil-kontert-emkritik-wir-sind-keine-maschinenphoto-13468344207471hdjpg.jpg" border="0" title="Özil kontert EM-Kritik: &#034;Wir sind keine Maschinen&#034;" alt="Özil kontert EM-Kritik: &#034;Wir sind keine Maschinen&#034;" width="460" height="307" />
+<br />
+<div class="bgUmschalt"></div>
+<div class="frn_text">
+<div class="frn_teaserHeadline">
+<strong>Özil kontert EM-Kritik: "Wir sind keine Maschinen"</strong>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserblockAct" style="display:block;">
+Mesut Özil hat sich nach der durchwachsenen Europameisterschaft gegen seine Kritiker zur Wehr gesetzt. <strong>mehr &raquo;</strong>
+</span>
+</div>
+</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_btTeaser frn_ttyp3 no_bhead umschaltTeaser " id="frnCycleTeaser_2933392_6" >
+<a href="http://unterhaltung.freenet.de/gewinnspiele/euromillions-34-millionen-euro-im-jackpot_2371240_82890.html" onclick="" target="_self" class="frn_teaserblock1 frn_linkArea" rel="Gewinnspiele">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3379968/teaserImg476x317/eumi-screenshot-tippfelder.jpg" border="0" title="Jackpot: 34 Mio. Euro bei EuroMillions!" alt="Jackpot: 34 Mio. Euro bei EuroMillions!" width="460" height="307" />
+<br />
+<div class="bgUmschalt"></div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+EuroMillions Jackpot
+</div>
+<div class="frn_teaserHeadline">
+<strong>34 Millionen Euro Jackpot: Annahmefrist läuft!</strong>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserblockAct" style="display:block;">
+Der Jackpot bei EuroMillions steht bei 34 Millionen Euro! Tippabgabe auch online möglich! <strong>mehr &raquo;</strong>
+</span>
+</div>
+</a>
+<div class="clearBoth"></div>
+</div>
+<div class="frn_btTeaser frn_ttyp3 no_bhead umschaltTeaser " id="frnCycleTeaser_2933392_7" >
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_gaming_aufmacher_empire/empire.freenet.de/index.html" onclick="" target="_self" class="frn_teaserblock1 frn_linkArea" rel="Gaming">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3495460/teaserImg476x317/empire-best-geclicktes-bild-3.jpg" border="0" title="Strategie-Spiel Empire: Baue Deine Burg und herrsche über Dein Königreich!" alt="Strategie-Spiel Empire: Baue Deine Burg und herrsche über Dein Königreich!" width="460" height="307" />
+<br />
+<div class="bgUmschalt"></div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Strategie-Spiel "Empire"
+</div>
+<div class="frn_teaserHeadline">
+<strong>Burgen bauen und Feinde überfallen!</strong>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserblockAct" style="display:block;">
+Werde zum Burgherren, Heerführer und genialen Strategen in Deinem eigenen Königreich! <strong>mehr &raquo;</strong>
+</span>
+</div>
+</a>
+<div class="clearBoth"></div>
+</div>
+</div><!-- eo frnCycleElem -->
+<script type="text/javascript">
+/* <![CDATA[ */
+//$(document).ready( function() {
+// Teaser-Rotation
+var doTextChange_2933392 = function() {
+var myActualId = this.id.substr(this.id.length-1,1);
+$('#frn_cycleNavi_2933392').attr('class', 'frn_bsNavi frn_cycleButton active'+myActualId);
+$('#frnCycleElem_2933392_Umschalter').attr('class', 'frn_cycle_elem_umschalter active'+myActualId)
+}
+$('#frnCycleElem_2933392').cycle({ 
+fx:     'fade', 
+speed:  1, 
+timeout: 8000, 
+next:   '#right_navigationTag_2933392', 
+prev:   '#left_navigationTag_2933392',
+before:  doTextChange_2933392,
+cleartype: true
+});
+$('#frnCycleElem_2933392_Umschalter ul').children().each(function(i) {
+if($(this).html() == "")$(this).html($('#frnCycleTeaser_2933392_'+(i+1)+' a').attr('rel'));
+$(this).click(function() { 
+$('#frnCycleElem_2933392').cycle(i);
+return false;
+});
+});
+$('#frnCycleElem_2933392 .umschaltTeaser').each(function(i) {
+$('#frn_cycleText_2933392').append('<span class="item'+(i+1)+'" onclick="$(\'#frnCycleElem_2933392\').cycle('+i+');">'+(i+1)+'</span>');
+});
+$('#frnCycleElem_2933392').mouseover( function() { $('#frnCycleElem_2933392').cycle('pause') } );
+$('#frnCycleElem_2933392').mouseout( function() { $('#frnCycleElem_2933392').cycle('resume') } );
+//$('#frnCycleElem_2933392').cycle('pause');
+//});
+/* ]]> */
+</script>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp1 frn_teaser_noZusatz no_bhead frn_noDottedLine ">
+<div class="bildContainer">
+<div class="frn_bhead">Sexy Party zum ...</div>
+<a href="http://leben.freenet.de/maennerlifestyle/girls/sexy-party-zum-playboygeburtstag_3527758_532944.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3527522/teaserImg148x98/ph-wenncom.jpg" width="148" height="98" border="0" title="Sexy Party zum Playboy-Geburtstag" alt="Sexy Party zum Playboy-Geburtstag"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Happy Birthday, Bunnys!
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://leben.freenet.de/maennerlifestyle/girls/sexy-party-zum-playboygeburtstag_3527758_532944.html" onclick="" target="_self">
+<strong>Sexy Party zum Playboy-Geburtstag</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Der Playboy wird 40 und eröffnet einen Club in Köln. Klar, dass da viele heiße Frauen zu sehen waren!
+<a href="http://leben.freenet.de/maennerlifestyle/girls/sexy-party-zum-playboygeburtstag_3527758_532944.html">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp1 frn_teaser_noZusatz no_bhead frn_noDottedLine last3">
+<div class="bildContainer">
+<div class="frn_bhead">Die kuriosesten ...</div>
+<a href="http://leben.freenet.de/reisen/reisemagazin/schoene-gruesse-aus-pups-pumpernudel--co_2061522_533062.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/2061528/teaserImg148x98/artikelbild.jpg" width="148" height="98" border="0" title="Die kuriosesten Ortsnamen Bayerns" alt="Die kuriosesten Ortsnamen Bayerns"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Von Kotzheim bis Nagelringen
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://leben.freenet.de/reisen/reisemagazin/schoene-gruesse-aus-pups-pumpernudel--co_2061522_533062.html" onclick="" target="_self">
+<strong>Die kuriosesten Ortsnamen Bayerns</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Unter den 40.000 Ortsnamen des südlichsten Bundeslandes gibt es jede Menge Kuriositäten.
+<a href="http://leben.freenet.de/reisen/reisemagazin/schoene-gruesse-aus-pups-pumpernudel--co_2061522_533062.html">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp1 frn_teaser_noZusatz no_bhead frn_noDottedLine last2 last3 last">
+<div class="bildContainer">
+<div class="frn_bhead">Günstige ...</div>
+<a href="http://digitalewelt.freenet.de/handymobiles/handy/zehn-guenstige-smartphones-unter-200-euro_3296304_1055376.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3296502/teaserImg148x98/zehn-guenstige-smartphones-unter-200-euro-artikelbild.jpg" width="148" height="98" border="0" title="Günstige Smartphones für unter 200 Euro" alt="Günstige Smartphones für unter 200 Euro"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Billige Kleinst-Computer
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://digitalewelt.freenet.de/handymobiles/handy/zehn-guenstige-smartphones-unter-200-euro_3296304_1055376.html" onclick="" target="_self">
+<strong>Günstige Smartphones für unter 200 Euro</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Unter 200 Euro: Wir haben für Sie zehn günstige Smartphones für jeden Geldbeutel zusammengestellt!
+<a href="http://digitalewelt.freenet.de/handymobiles/handy/zehn-guenstige-smartphones-unter-200-euro_3296304_1055376.html">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+<div class="frn_cont frn_col5 frn_typ3 frn_cont_noborder productbox " >
+<div class="frn_contHead">
+<strong>freenet.de empfiehlt</strong>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<script type='text/javascript'>/* <![CDATA[ */  OA_show(243);  /* ]]> */</script>
+<script type='text/javascript'>/* <![CDATA[ */  OA_show(244);  /* ]]> */</script>
+<script type='text/javascript'>/* <![CDATA[ */  OA_show(245);  /* ]]> */</script>
+<div class="clearBoth"></div>
+</div>
+</div>
+<div class="frn_cont frn_col5 frn_typ3 frn_cont_noborder frn_cont_nobgimage frn_cont_nobutton frn_cont_nohead frn_channelTabs">
+<div class="frn_contHead">
+<strong></strong>
+</div>
+<div class="clearBoth"></div> <div class="frn_contInlett">
+<div id="frnPanel2973252" class="frn_panel" >
+<ul id="frnPanelTabs2973252" class="frn_panelTabs">
+<li class="frn_panelTabInaktiv" id="Tab3443410">
+<a class="frn_itemName"><span>Blickpunkt</span></a>
+</li>
+<li class="frn_panelTabInaktiv" id="Tab3443424">
+<a class="frn_itemName"><span>Nachrichten</span></a>
+</li>
+<li class="frn_panelTabInaktiv" id="Tab2956494">
+<a class="frn_itemName"><span>Sport</span></a>
+</li>
+<li class="frn_panelTabAktiv" id="Tab2980174">
+<a class="frn_itemName"><span>Finanzen</span></a>
+</li>
+</ul>	<div class="frn_panelFrame">
+<div id="frnPanelBlock2973252" class="frn_panelBlock">
+<div class="frn_cont frn_col5 frn_typ3 frn_cont_noborder " >
+<div class="frn_contHead">
+<strong>Finanzen</strong>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="clearBoth"></div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp3 frn_teaser_noZusatz no_bhead frn_noDottedLine ">
+<div class="bildContainer">
+<div class="frn_bhead">Stuttgart und ...</div>
+<a href="http://finanzen.freenet.de/nachrichten/stuttgart-und-kiel-klagen-gegen-gigalinertest_3526644_993562.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3526646/teaserImg148x98/stuttgart-und-kiel-klagen-gegen-gigalinertestphoto-1346682320894hdjpg.jpg" width="148" height="98" border="0" title="Stuttgart und Kiel klagen gegen Gigaliner-Test" alt="Stuttgart und Kiel klagen gegen Gigaliner-Test"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Länder bei Entscheidung für Feldversuch nicht beteiligt
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://finanzen.freenet.de/nachrichten/stuttgart-und-kiel-klagen-gegen-gigalinertest_3526644_993562.html" onclick="" target="_self">
+<strong>Stuttgart und Kiel klagen gegen Gigaliner-Test</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Die beiden rot-grün regierten Länder Baden-Württemberg und Schleswig-Holstein wollen den Testbetrieb von ...
+<a href="http://finanzen.freenet.de/nachrichten/stuttgart-und-kiel-klagen-gegen-gigalinertest_3526644_993562.html" target="_self">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp3 frn_teaser_noZusatz no_bhead frn_noDottedLine last3 ">
+<div class="bildContainer">
+<div class="frn_bhead">Krankenkassen ...</div>
+<a href="http://finanzen.freenet.de/nachrichten/krankenkassen-haeufen-erneut-milliardenueberschuss-an_3528764_993562.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3528766/teaserImg148x98/krankenkassen-haeufen-erneut-milliardenueberschuss-aphoto-1346835856874hdjpg.jpg" width="148" height="98" border="0" title="Krankenkassen häufen erneut Milliardenüberschuss an" alt="Krankenkassen häufen erneut Milliardenüberschuss an"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Betrag liegt im ersten Halbjahr bei 2,7 Milliarden Euro
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://finanzen.freenet.de/nachrichten/krankenkassen-haeufen-erneut-milliardenueberschuss-an_3528764_993562.html" onclick="" target="_self">
+<strong>Krankenkassen häufen erneut Milliardenüberschuss an</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Bei den gesetzlichen Krankenkassen hat sich die positive Finanzentwicklung im ersten Halbjahr des laufenden Jahres ...
+<a href="http://finanzen.freenet.de/nachrichten/krankenkassen-haeufen-erneut-milliardenueberschuss-an_3528764_993562.html" target="_self">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_onlyList"><ul><li style="background-image:none;margin-left:-12px;">
+<a href="http://finanzen.freenet.de/index.html" class="frn_rubriklink_first"><strong>Finanzen</strong></a> | <a href="http://boerse.freenet.de/" class="frn_rubriklink"><strong>Börse</strong></a> |
+<a href="http://boerse.freenet.de/aktien/list?a=dax&chart=1" class="frn_rubriklink"><strong>DAX</strong></a> |
+<a href="http://boerse.freenet.de/aktien/list?a=mdax&chart=1" class="frn_rubriklink"><strong>M-DAX</strong></a> |
+<a href="http://boerse.freenet.de/aktien/list?a=tecdax&chart=1" class="frn_rubriklink"><strong>TecDAX</strong></a> |
+<a href="http://boerse.freenet.de/aktien/list?a=dow30&chart=1" class="frn_rubriklink"><strong>DOW</strong></a> |
+<a href="http://boerse.freenet.de/aktien/list?a=nasdaq&chart=1" class="frn_rubriklink"><strong>Nasdaq</strong></a> |
+<a href="http://boerse.freenet.de/aktien/list" class="frn_rubriklink"><strong>Alle Kurslisten</strong></a>
+</li></ul></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+autoSizeTabs();
+$(document).ready( function() {
+initPanels();
+readCookie();
+//showPanels();
+$('#TabConf2973252').click( function() {
+$('#conf_frnPanelTabs2973252').toggle();
+} );
+});
+/* ]]> */
+</script>
+<script type="text/javascript" class="ad">
+/* <![CDATA[ */
+if (! frn046adxtra ) var frn046adxtra = "";
+if (! frn046wrect ) var frn046wrect = false;
+var frn046enrich = (typeof pt027bw == 'undefined')? "&band=256"+frn046adxtra : "&band="+pt027bw+frn046adxtra;
+var frn046enrich = (typeof frn046tie == 'undefined')? "&tie=free"+frn046enrich : "&tie="+frn046tie+frn046enrich;
+if (frn046wrect) {
+document.write('<div class="clearBoth"></div><div style="height: 10px; width: 468px;" class="frn_teaserTrenner"></div>\n'
++ '<div id="adbox18" class="frn_adbox">\n'
++ '<div id="fXm_ppos18Anz" class="frn_adboxHead">Anzeige</div>\n'
++ '<scr' + 'ipt type="text/javascript" src="http://adserver.freenet.de/js.ng/site=fn&affiliate=fn_port&prod=fn_port&tbl=channel&ppos=18'+frn046enrich+'"></scr' + 'ipt>\n'
++ '</div>');
+}
+/* ]]> */
+</script>
+<div id="frnContBundesliga" class="frn_cont frn_col5 frn_typ3 frn_cont_noborder frn_cont_noteasertext " >
+<div class="frn_contHead">
+<strong>1. Bundesliga - Alle Nachrichten zu Ihrem Verein!</strong>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp1 frn_teaser_noZusatz no_bhead frn_noDottedLine ">
+<div class="bildContainer">
+<div class="frn_bhead">Sammer:</div>
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/co12/bundesliga/ne677510/sammer-vertragsverlaengerung-von-heynckes-moeglich/index.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3528438/teaserImg148x98/sammer-vertragsverlaengerung-von-heynckes-moeglichphoto-13467905645681hdjpg.jpg" width="148" height="98" border="0" title="Sammer: Vertragsverlängerung von Heynckes möglich" alt="Sammer: Vertragsverlängerung von Heynckes möglich"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserHeadline">
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/co12/bundesliga/ne677510/sammer-vertragsverlaengerung-von-heynckes-moeglich/index.html" onclick="" target="_self">
+<strong>Sammer: Vertragsverlängerung von Heynckes möglich</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Sportvorstand Matthias Sammer kann sich eine Vertragsverlängerung von Trainer Jupp Heynckes bei Fußball-Rekordmeister ...
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/co12/bundesliga/ne677510/sammer-vertragsverlaengerung-von-heynckes-moeglich/index.html">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp1 frn_teaser_noZusatz no_bhead frn_noDottedLine last3">
+<div class="bildContainer">
+<div class="frn_bhead">Muskelfaserriss:</div>
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/co12/bundesliga/ne677507/muskelfaserriss-dortmunder-santana-muss-pausieren/index.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3528372/teaserImg148x98/muskelfaserriss-dortmunder-santana-muss-pausierenphoto-13467890834731hdjpg.jpg" width="148" height="98" border="0" title="Muskelfaserriss: Dortmunder Santana muss pausieren" alt="Muskelfaserriss: Dortmunder Santana muss pausieren"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserHeadline">
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/co12/bundesliga/ne677507/muskelfaserriss-dortmunder-santana-muss-pausieren/index.html" onclick="" target="_self">
+<strong>Muskelfaserriss: Dortmunder Santana muss pausieren</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Der deutsche Fußball-Meister und Pokalsieger Borussia Dortmund muss etwa zwei Wochen auf Abwehrspieler Felipe Santana ...
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/co12/bundesliga/ne677507/muskelfaserriss-dortmunder-santana-muss-pausieren/index.html">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp1 frn_teaser_noZusatz no_bhead frn_noDottedLine last2 last3">
+<div class="bildContainer">
+<div class="frn_bhead">Schützenfest bei ...</div>
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/co12/bundesliga/ne677499/schuetzenfest-bei-rueckkehr-von-van-der-vaart/index.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3528342/teaserImg148x98/schuetzenfest-bei-rueckkehr-von-van-der-vaartphoto-13467840230981hdjpg.jpg" width="148" height="98" border="0" title="Schützenfest bei Rückkehr von van der Vaart" alt="Schützenfest bei Rückkehr von van der Vaart"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserHeadline">
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/co12/bundesliga/ne677499/schuetzenfest-bei-rueckkehr-von-van-der-vaart/index.html" onclick="" target="_self">
+<strong>Schützenfest bei Rückkehr von van der Vaart</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Rafael van der Vaart hat bei seinem ersten Auftritt nach seiner Rückkehr zum HSV ein 12:0-Schützenfest gegen den ...
+<a href="http://sport.freenet.de/sport-news/sp1/fussball/co12/bundesliga/ne677499/schuetzenfest-bei-rueckkehr-von-van-der-vaart/index.html">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<style type="text/css">.frn_iconlink_bg_skip.skip_3490198 a.iconLnk {background-image:url(http://blob.freent.de/contentblob/3492686/original/vereinsicons-bundesliga-20122013-klein-20120815-v2.png);padding-left:20px;height:20px;}</style>
+<div class="frn_onlyList frn_iconList">
+<ul>
+<li class="frn_iconlink_bg_skip skip_3490198 item1 ">
+<a href=http://sport.freenet.de/team/te258/borussia-dortmund/index.html" class="iconLnk" onclick="" target="_self" title="Borussia Dortmund"></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item2 ">
+<a href="http://sport.freenet.de/team/te209/bayern-muenchen/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item3 ">
+<a href="http://sport.freenet.de/team/te694/fc-schalke-04/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item4 ">
+<a href="http://sport.freenet.de/team/te253/bor-moenchengladbach/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item5 ">
+<a href="http://sport.freenet.de/team/te205/bayer-leverkusen/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item6 ">
+<a href="http://sport.freenet.de/team/te2076/vfb-stuttgart/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item7 ">
+<a href="http://sport.freenet.de/team/te951/hannover-96/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item8 ">
+<a href="http://sport.freenet.de/team/te2086/vfl-wolfsburg/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item9 ">
+<a href="http://sport.freenet.de/team/te2134/werder-bremen/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item10 ">
+<a href="http://sport.freenet.de/team/te12/1-fc-nuernberg/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item11 ">
+<a href="http://sport.freenet.de/team/te24/1899-hoffenheim/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item12 ">
+<a href="http://sport.freenet.de/team/te1639/sc-freiburg/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item13 ">
+<a href="http://sport.freenet.de/team/te21/1-fsv-mainz-05/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item14 ">
+<a href="http://sport.freenet.de/team/te594/fc-augsburg/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item15 ">
+<a href="http://sport.freenet.de/team/te943/hamburger-sv/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item16 last3 ">
+<a href="http://sport.freenet.de/team/te1787/spvgg-greuther-fuerth/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item17 last2 last3 ">
+<a href="http://sport.freenet.de/team/te530/eintracht-frankfurt/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+<li class="frn_iconlink_bg_skip skip_3490198 item18 last1 last2 last3 last ">
+<a href="http://sport.freenet.de/team/te826/fortuna-duesseldorf/index.html" class="iconLnk" onclick="" target="_self" title=""></a>
+</li>
+</ul>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+</div>
+</div>
+<div class="frn_cont frn_col5 frn_typ3 frn_cont_noborder frn_cont_nobgimage frn_cont_nobutton frn_cont_nohead frn_channelTabs">
+<div class="frn_contHead">
+<strong></strong>
+</div>
+<div class="clearBoth"></div> <div class="frn_contInlett">
+<div id="frnPanel2973238" class="frn_panel" >
+<ul id="frnPanelTabs2973238" class="frn_panelTabs">
+<li class="frn_panelTabInaktiv" id="Tab2976284">
+<a class="frn_itemName"><span>Auto</span></a>
+</li>
+<li class="frn_panelTabInaktiv" id="Tab2980420">
+<a class="frn_itemName"><span>Digitale Welt</span></a>
+</li>
+<li class="frn_panelTabAktiv" id="Tab3439414">
+<a class="frn_itemName"><span>Gaming</span></a>
+</li>
+<li class="frn_panelTabInaktiv" id="Tab2968538">
+<a class="frn_itemName"><span>Horoskope</span></a>
+</li>
+</ul>	<div class="frn_panelFrame">
+<div id="frnPanelBlock2973238" class="frn_panelBlock">
+<div class="frn_cont frn_col5 frn_typ3 frn_cont_noborder " >
+<div class="frn_contHead">
+<a href="http://unterhaltung.freenet.de/gaming/index.html"><strong>Gaming &raquo;</strong></a>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="clearBoth"></div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp3 frn_teaser_noZusatz no_bhead frn_noDottedLine ">
+<div class="bildContainer">
+<div class="frn_bhead">Erleb wilde ...</div>
+<a href="http://piratestorm.freenet.de" onclick="" target="_blank">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3300440/teaserImg148x98/pirate-storm-bild2.jpg" width="148" height="98" border="0" title="Erleb wilde Abenteuer mit &#034;Pirate Storm&#034;!" alt="Erleb wilde Abenteuer mit &#034;Pirate Storm&#034;!"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Schiffe, Wasser und Kanonen
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://piratestorm.freenet.de" onclick="" target="_blank">
+<strong>Erleb wilde Abenteuer mit "Pirate Storm"!</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Hiss die Flagge und erleb spannende Abenteuer im neuen Online-Game der "Seafight"-Macher.
+<a href="http://piratestorm.freenet.de" target="_blank">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp3 frn_teaser_noZusatz no_bhead frn_noDottedLine last3 ">
+<div class="bildContainer">
+<div class="frn_bhead">Farmerama</div>
+<a href="http://farmerama.bigpoint.com/?aid=141&amp;locale=de" onclick="" target="_blank">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/2868740/teaserImg148x98/farmerama-bild-201108-neu.png" width="148" height="98" border="0" title="Farmerama" alt="Farmerama"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Ackern, ernten, Tiere züchten
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://farmerama.bigpoint.com/?aid=141&amp;locale=de" onclick="" target="_blank">
+<strong>Kostenlos zum eigenen Online-Bauernhof!</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Gründe bei "Farmerama" Deinen Online-Bauernhof! Das Landleben macht einen Heidenspaß.
+<a href="http://farmerama.bigpoint.com/?aid=141&amp;locale=de" target="_blank">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_onlyList"><ul><li style="background-image:none;margin-left:-12px;">
+<a href="http://unterhaltung.freenet.de/gaming/index.html" class="frn_rubriklink_first"><strong>Gaming</strong></a> | <a href="http://unterhaltung.freenet.de/gaming/browsergames/index.html" class="frn_rubriklink"><strong>Browsergames</strong></a> | <a href="http://unterhaltung.freenet.de/gaming/farmerama/index.html" class="frn_rubriklink"><strong>Farmerama</strong></a> |
+<a href="http://online-spiele.freenet.de/gd/k19_fre.do?from=.frn001co_flu_gamingindex_de" class="frn_rubriklink"><strong>Fluffy</strong></a> |
+<a href="http://unterhaltung.freenet.de/gaming/pausenspiele/index.html" class="frn_rubriklink"><strong>Pausenspiele</strong></a>
+</li></ul></div>
+<div class="clearBoth"></div>
+</div>
+<a class="frn_moreButton" href="http://unterhaltung.freenet.de/gaming/index.html" target="_self"><span class="frn_more"><span>mehr Gaming</span></span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+autoSizeTabs();
+$(document).ready( function() {
+initPanels();
+readCookie();
+//showPanels();
+$('#TabConf2973238').click( function() {
+$('#conf_frnPanelTabs2973238').toggle();
+} );
+});
+/* ]]> */
+</script>
+<script type='text/javascript'>/* <![CDATA[ */  OA_show(181);  /* ]]> */</script>
+<div id="adBox12" class="frn_adbox">
+<div id="fXm_ppos12Anz" class="frn_adboxHead">Anzeige</div>
+<script type="text/javascript" class="ad">
+/* <![CDATA[ */
+if (! frn046adxtra ) var frn046adxtra = "";
+var frn046enrich = (typeof pt027bw == 'undefined')? "&band=256"+frn046adxtra : "&band="+pt027bw+frn046adxtra;
+var frn046enrich = (typeof frn046tie == 'undefined')? "&tie=free"+frn046enrich : "&tie="+frn046tie+frn046enrich;
+document.write('<scr' + 'ipt type="text/javascript" src="http://adserver.freenet.de/js.ng/site=fn&affiliate=fn_port&prod=fn_port&tbl=channel&ppos=12'+frn046enrich+'"></scr' + 'ipt>');
+/* ]]> */
+</script>
+</div>
+<div class="frn_cont frn_col5 frn_typ3 frn_cont_noborder frn_cont_nobgimage frn_cont_nobutton frn_cont_nohead frn_channelTabs">
+<div class="frn_contHead">
+<strong></strong>
+</div>
+<div class="clearBoth"></div> <div class="frn_contInlett">
+<div id="frnPanel2973244" class="frn_panel" >
+<ul id="frnPanelTabs2973244" class="frn_panelTabs">
+<li class="frn_panelTabInaktiv" id="Tab2956592">
+<a class="frn_itemName"><span>Für Männer</span></a>
+</li>
+<li class="frn_panelTabAktiv" id="Tab2956606">
+<a class="frn_itemName"><span>Für Frauen</span></a>
+</li>
+<li class="frn_panelTabInaktiv" id="Tab2956620">
+<a class="frn_itemName"><span>Reisen</span></a>
+</li>
+<li class="frn_panelTabInaktiv" id="Tab2956622">
+<a class="frn_itemName"><span>Gesundheit</span></a>
+</li>
+</ul>	<div class="frn_panelFrame">
+<div id="frnPanelBlock2973244" class="frn_panelBlock">
+<div class="frn_cont frn_col5 frn_typ3 frn_cont_noborder " >
+<div class="frn_contHead">
+<strong>Für Frauen</strong>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="clearBoth"></div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp3 frn_teaser_noZusatz no_bhead frn_noDottedLine ">
+<div class="bildContainer">
+<div class="frn_bhead">Nackt-Yoga:</div>
+<a href="http://leben.freenet.de/frauenlifestyle/loveandsex/nacktyoga-kennen-sie-schon-den-neuen-erotiktrend_3485928_564012.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3491606/teaserImg148x98/artikelbild-02-nacktyoga-kennen-sie-schon-den-neuen-erotiktrend.jpg" width="148" height="98" border="0" title="Nackt-Yoga: Alles über den neuen Erotiktrend" alt="Nackt-Yoga: Alles über den neuen Erotiktrend"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Wie befreiend!
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://leben.freenet.de/frauenlifestyle/loveandsex/nacktyoga-kennen-sie-schon-den-neuen-erotiktrend_3485928_564012.html" onclick="" target="_self">
+<strong>Nackt-Yoga: Alles über den neuen Erotiktrend</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Wir haben die wichtigsten Fakten zum neuen "Nackt Yoga" Trend zusammengestellt!
+<a href="http://leben.freenet.de/frauenlifestyle/loveandsex/nacktyoga-kennen-sie-schon-den-neuen-erotiktrend_3485928_564012.html" target="_self">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp3 frn_teaser_noZusatz no_bhead frn_noDottedLine last3 ">
+<div class="bildContainer">
+<div class="frn_bhead">10 Tricks, damit ...</div>
+<a href="http://leben.freenet.de/frauenlifestyle/loveandsex/10-abnehmtricks-damit-ihr-partner-endlich-diaet-macht_3521346_564012.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3521562/teaserImg148x98/artikelbild-02-10-abnehmtricks-damit-ihr-partner-endlich-diaet-macht.jpg" width="148" height="98" border="0" title="10 Tricks, damit Ihr Partner Diät macht!" alt="10 Tricks, damit Ihr Partner Diät macht!"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Bikini-Figur
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://leben.freenet.de/frauenlifestyle/loveandsex/10-abnehmtricks-damit-ihr-partner-endlich-diaet-macht_3521346_564012.html" onclick="" target="_self">
+<strong>10 Tricks, damit Ihr Partner Diät macht!</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Ihr Partner hat zugenommen? Wir verraten Ihnen 10 Abnehm-Tricks, mit denen Sie Ihren Partner - ohne Beziehungsstress - ...
+<a href="http://leben.freenet.de/frauenlifestyle/loveandsex/10-abnehmtricks-damit-ihr-partner-endlich-diaet-macht_3521346_564012.html" target="_self">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_onlyList"><ul><li style="background-image:none;margin-left:-12px;">
+<a href="http://leben.freenet.de/frauenlifestyle/index.html" class="frn_rubriklink_first"><strong>Frauen Lifestyle</strong></a> |
+<a href="http://leben.freenet.de/frauenlifestyle/beautyandwellness/index.html" class="frn_rubriklink"><strong>Beauty &amp; Wellness</strong></a> |
+<a href="http://leben.freenet.de/frauenlifestyle/loveandsex/index.html" class="frn_rubriklink"><strong>Love &amp; Sex</strong></a> |
+<a href="http://leben.freenet.de/frauenlifestyle/stars/index.html" class="frn_rubriklink"><strong>Stars</strong></a> |
+<a href="http://leben.freenet.de/frauenlifestyle/fashion/index.html" class="frn_rubriklink"><strong>Fashion</strong></a>
+</li></ul></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+autoSizeTabs();
+$(document).ready( function() {
+initPanels();
+readCookie();
+//showPanels();
+$('#TabConf2973244').click( function() {
+$('#conf_frnPanelTabs2973244').toggle();
+} );
+});
+/* ]]> */
+</script>
+<div class="frn_cont frn_col5 frn_typ3 frn_cont_noborder frn_teaserNumbersOff frn_noTeaserDottedLine frn_contBilderDesTages " >
+<div class="frn_contHead">
+<strong>Bilder des Tages</strong>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="clearBoth"></div>
+<div id="frnCycleElem_3185136" class="frn_cycle_elem">
+<div class="frn_btTeaser frn_ttyp3 no_bhead umschaltTeaser " id="frnCycleTeaser_3185136_1" >
+<a href="http://nachrichten.freenet.de/pictureshow/bilder-des-tages_3523038_324006_0_0.html" onclick="" target="_self" class="frn_teaserblock1 frn_linkArea" rel="Topnews">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3528576/teaserImg476x317/gespenstige-atmosphaerephoto-1346826655808hdjpg.jpg" border="0" title="Gespenstische Atmosphäre" alt="Gespenstische Atmosphäre" width="460" height="307" />
+<br />
+<div class="bgUmschalt"></div>
+<div class="frn_text">
+<div class="frn_teaserHeadline">
+<strong>Gespenstische Atmosphäre</strong>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserblockAct" style="display:block;">
+Gespenstische Atmosphäre in Montréal: Bei einer Schießerei während der Siegesrede der mutmaßlichen ... <strong>mehr &raquo;</strong>
+</span>
+</div>
+</a>
+<div class="clearBoth"></div>
+</div>
+</div><!-- eo frnCycleElem -->
+<div class="clearBoth"></div>
+</div>
+</div>
+<iframe src="http://snippet.freenet.de/partner/http/3445762/view_teaser.html" frameborder="0" scrolling="no" width="100%" height="275"></iframe>
+<div class="clearBoth"></div>
+</div>
+<!-- ] -->
+</div>
+<div id="frnContentRight" class="frn_col5_typ2R">
+<!-- RIGHT COLUMN[ -->
+<div class="lay5">
+<div id="frnHockeyPlaceholder"></div>
+<div class="frn_loginBoxPlaceholder"></div>
+<div id="adBox31" class="frn_adbox">
+<div id="fXm_ppos31Anz" class="frn_adboxHead">Anzeige</div>
+<script type="text/javascript" class="ad">
+/* <![CDATA[ */
+if (! frn046adxtra ) var frn046adxtra = "";
+var frn046enrich = (typeof pt027bw == 'undefined')? "&band=256"+frn046adxtra : "&band="+pt027bw+frn046adxtra;
+var frn046enrich = (typeof frn046tie == 'undefined')? "&tie=free"+frn046enrich : "&tie="+frn046tie+frn046enrich;
+document.write('<scr' + 'ipt type="text/javascript" src="http://adserver.freenet.de/js.ng/site=fn&affiliate=fn_port&prod=fn_port&tbl=channel&ppos=31'+frn046enrich+'"></scr' + 'ipt>');
+/* ]]> */
+</script>
+</div>
+<div class="frn_cont frn_col5 frn_typ2 frn_cont_noborder frnSingle_module " >
+<div class="frn_contHead">
+<a href="http://single.de/?pid=10342920012&amp;utm_source=Freenet.de&amp;utm_medium=Festplatzierung&amp;utm_content=Indexbox&amp;utm_campaign=Standard&amp;utm_term=Standarddesign"><strong>Single.de &raquo;</strong></a>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="frn_singlesTeaserRight">
+<div id="frnSingleNew" class="frn_fnSinglesNew">
+<strong>2,0 Mio. Singles aus Deutschland warten auf Sie</strong>
+<div class="wrapFloats">
+<div class="leftArrow">
+<input type="image" src="http://blob.freent.de/contentblob/2569076/data/single-flipthrough-bt.png" name="prev" id="leftArrow" onfocus="blur()" alt="" />
+</div>
+<div class="displaySingles">
+<div id="singles1" class="firstSingle">
+<a href="" target="_blank"><img class="firstImg" src="http://blob.freent.de/contentblob/2657374/data/placeholder.png" alt="" border="0" width="83" height="84" /></a>
+</div>
+<div id="singles2" class="secondSingle">
+<a href="" target="_blank"><img class="secondImg" src="http://blob.freent.de/contentblob/2657374/data/placeholder.png" alt="" border="0" width="83" height="84" /></a>
+</div>
+</div>
+<div class="rightArrow">
+<input type="image" class="" src="http://blob.freent.de/contentblob/2569076/data/single-flipthrough-bt.png" name="next" id="rightArrow" onfocus="blur()" alt="" />
+</div>
+<div style="clear: both;"></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<a class="frnSingles_register" href="http://single.de/?pid=10342920012&amp;utm_source=Freenet.de&amp;utm_medium=Festplatzierung&amp;utm_content=Indexbox&amp;utm_campaign=Standard&amp;utm_term=Standarddesign" title="Jetzt kostenlos registrieren" target="_blank"><img src="http://blob.freent.de/contentblob/2531808/data/startseite-modul-bt.png" height="24" width="185" alt="Jetzt kostenlos registrieren" /></a>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+$().single();
+/* ]]> */
+</script>
+<div class="clearBoth"></div>
+</div>
+</div>
+<div class="frn_cont frn_col5 frn_typ2 frn_cont_noborder frn_horoskop frn_horoskopStart " >
+<div class="frn_contHead">
+<strong>Tageshoroskop</strong>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<script type="text/javascript">
+/* <![CDATA[ */
+$(function(){
+$('#vsrp_Holder').vTicker({
+speed: 500,
+pause: 6000,
+showItems: 1,
+animation: 'fade',
+mousePause: true,
+height: 60,
+direction: 'up'
+});
+});
+/* ]]> */
+</script>
+<div id="vsrp_Holder" class="module horoscope horoscope-slideup">
+<ul>
+<li>
+<div class="zodiac-leo modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_loewe.html"> </a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_loewe.html">
+<span>Löwe</span>
+<dfn>23. Juli - 23. August</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_loewe.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="zodiac-virgo modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_jungfrau.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_jungfrau.html">
+<span>Jungfrau</span>
+<dfn>24. August - 23. September</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_jungfrau.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="zodiac-libra modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_waage.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_waage.html">
+<span>Waage</span>
+<dfn>24. September - 23. Oktober</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_waage.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="zodiac-scorpio modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_skorpion.html">
+<span>Horoskop</span>
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_skorpion.html">
+<span>Skorpion</span>
+<dfn>24. Oktober - 22. November</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_skorpion.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="zodiac-sagittarius modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_schuetze.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_schuetze.html">
+<span>Schütze</span>
+<dfn>23. November - 21. Dezember</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_schuetze.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="zodiac-capricornus modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_steinbock.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_steinbock.html">
+<span>Steinbock</span>
+<dfn>22. Dezember - 20. Januar</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_steinbock.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="zodiac-aquarius modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_wassermann.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_wassermann.html">
+<span>Wassermann</span>
+<dfn>21. Januar - 19. Februar</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_wassermann.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="zodiac-pisces modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_fische.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_fische.html">
+<span>Fische</span>
+<dfn>20. Februar - 20. März</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_fische.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div>
+</li>
+<li><div class="zodiac-aries modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_widder.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_widder.html">
+<span>Widder</span>
+<dfn>21. März - 20. April</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_widder.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div></li>
+<li> <div class="zodiac-taurus modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_stier.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_stier.html">
+<span>Stier</span>
+<dfn>21. April - 21. Mai</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_stier.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div></li>
+<li><div class="zodiac-gemini modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_zwillinge.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_zwillinge.html">
+<span>Zwillinge</span>
+<dfn>22. Mai - 21. Juni</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_zwillinge.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div></li>
+<li>
+<div class="zodiac-cancer modulePart part2">
+<h2>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_krebs.html">
+</a>
+</h2>
+<div class="text">
+<h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_krebs.html">
+<span>Krebs</span>
+<dfn>22. Juni - 22. Juli</dfn> </a>
+</h3>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de/ihr-horoskop/tageshoroskop_krebs.html" class="hearts"> </a>
+<a class="more" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_rechts_horoskopemodul/horoskope.freenet.de">
+<span>Alle Sternzeichen</span>
+</a>
+</div>
+</div></li>
+</ul>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+$.ajax({
+url: "http://www.freenet.de/feed/start/horoskop/horoskop.html",
+jsonpCallback: 'frnHoro'+new Date().getTime(),
+jsonp:'jsoncallback',
+dataType: 'jsonp',
+success: function(data){
+$("a.hearts").each(function(index){
+$(this).attr( 'class','hearts-'+ data.horoscope[(index+4)%12].zodiacSign.section[1].rating);
+});
+}
+});
+/* ]]> */
+</script>
+<div class="clearBoth"></div>
+</div>
+</div>
+<div class="frn_cont frn_col5 frn_typ2 frn_cont_noborder">
+<div class="frn_contHead"><strong>Wettervorhersage</strong></div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett" style="margin-left:10px; margin-top:-3px;">
+<div class="frn_wetterBoxpart">
+<!--  bo wetter -->
+<div class="frn_boxhead" id="frn_wetterboxhead">
+<div style="float:left;">Das aktuelle Wetter in <strong id="frn_wetterBoxWsName">Berlin</strong></div><div style="clear:both;"></div>
+</div>
+<div id="frn_wetterboxcomplete">
+<div class="frn_boxborder" id="frn_wetterbox">
+<div class="frn_waiting" ><img src="http://blob.freent.de/contentblob/328078/data/loading.gif" alt="lade Daten ..." width="32" height="32" /></div>
+<div style="clear: left;"></div>
+</div>
+</div>
+<div id="frn_aendernboxcomplete" style="display:none">
+<div class="frn_boxhead" id="frn_aenderboxhead"><strong>&Auml;ndern des angezeigten Ortes:</strong></div>
+<div class="frn_boxborder" id="frn_aendernbox">
+<input type="text" name="frn_aendernboxtext" id="frn_aendernboxtext" /><div style="height:5px"></div>
+<span id="frn_aendernboxbuttons"><input type="image" name="frn_aendernboxsave" value="Wetter anzeigen" id="frn_aendernboxsave" class="smallButton" src="http://www.freenet.de/src/_buttons/bt_wetter_anzeigen.gif" alt="" /><span style="width:5px;"> </span><input type="image" name="frn_aendernboxcancel" value="abbrechen" id="frn_aendernboxcancel" class="smallButton" src="http://www.freenet.de/src/_buttons/bt_abbrechen.gif" alt="" /></span>
+<div id="frn_aendernboxselect" style="display:none;"><select name="frn_wetterSelectBox" id="frn_wetterSelectBox"></select></div>
+<div id="frn_aendernboxerror1" style="color:red; font-size:10px; display:none;">Ort nicht gefunden!</div>
+<div id="frn_aendernboxerror2" style="color:red; font-size:10px; display:none;">Mehrere Orte gefunden, bitte PLZ verwenden!</div>
+</div>
+</div>
+<script type="text/javascript">
+initWetter();
+</script>
+<!-- eo wetter -->
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>
+<div class="frn_cont frn_col5 frn_typ2 frn_cont_noborder " >
+<div class="frn_contHead">
+<strong>Community</strong>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<table id="frnCommStats">
+<tr>
+<td class="first item1">1.020</td>
+<td class="last">Freunde online - <a href="http://community.freenet.de/freunde-finden/index.html">Freunde finden</a></td>
+</tr>
+<tr>
+<td class="first item2">1.544</td>
+<td class="last">Singles online - <a href="http://single.de/?pid=11101">Hier verliebst Du Dich</a></td>
+</tr>
+<tr>
+<td class="first item3">385</td>
+<td class="last">Chatter online - <a href="http://chat.freenet.de">einfach nett chatten</a></td>
+</tr>
+</table>
+<script type="text/javascript">
+function addSeparator(nStr){
+nStr += '';
+x = nStr.split(',');
+x1 = x[0];
+x2 = x.length > 1 ? ',' + x[1] : '';
+var rgx = /(\d+)(\d{3})/;
+while (rgx.test(x1)) {
+x1 = x1.replace(rgx, '$1' + '.' + '$2');
+}
+return x1 + x2;
+}
+$(function() {
+var url = "https://graph.facebook.com/freenet?callback=?";
+$.getJSON(url,function(json){
+var fb_likes = addSeparator(json.likes);
+$('#show_likes').html(fb_likes);
+});
+});
+</script>
+<div>
+<div style="width:283px;height:1px;border-bottom:1px solid #BED5E3;margin-left:4px;"></div>
+<div style="width:290px;font-size:11px;">
+<table><tr>
+<td id="show_likes" style="background:url(http://blob.freent.de/contentblob/2962210/data/facebook-icon.png) no-repeat;background-position:2px 1px;text-align:right;padding:2px 5px 2px 30px;"></td>
+<td style="width:auto;padding:2px 5px;">Facebook Fans - <a href="http://www.facebook.com/freenet" target="_blank">Pinnwand ansehen</a></td>
+</tr></table>
+</div>
+</div>
+<div class="clearBoth"></div>
+</div>
+</div>
+<script type='text/javascript'>/* <![CDATA[ */  OA_show(182);  /* ]]> */</script>
+<div class="frn_cont frn_col5 frn_typ2 frn_cont_noborder frn_cont_nobgimage frn_cont_nobutton frn_cont_nohead frn_teaserNumbersOff frn_noTeaserDottedLine frn_cont_noteasertext frn_cont_teaserKicker frn_contVideo">
+<div class="frn_contHead">
+<strong></strong>
+</div>
+<div class="clearBoth"></div> <div class="frn_contInlett">
+<div id="frnPanel3243794" class="frn_panel" >
+<ul id="frnPanelTabs3243794" class="frn_panelTabs">
+<li class="frn_panelTabInaktiv" id="Tab2699440">
+<a class="frn_itemName"><span>Sexy Videos</span></a>
+</li>
+<li class="frn_panelTabInaktiv" id="Tab2699298">
+<a class="frn_itemName"><span>Promi-Videos</span></a>
+</li>
+<li class="frn_panelTabAktiv" id="Tab2699438">
+<a class="frn_itemName"><span>Krasse Videos</span></a>
+</li>
+</ul>	<div class="frn_panelFrame">
+<div id="frnPanelBlock3243794" class="frn_panelBlock">
+<div class="frn_cont frn_col5 frn_typ2 frn_cont_noborder frn_teaserNumbersOff frn_noTeaserDottedLine frn_cont_noteasertext frn_cont_teaserKicker frn_contVideo " >
+<div class="frn_contHead">
+<strong>Krasse Videos</strong>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="clearBoth"></div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp2 frn_teaser_noZusatz no_bhead frn_noDottedLine ">
+<span class="frn_teaserNum num1">1</span>
+<div class="bildContainer">
+<a href="http://unterhaltung.freenet.de/video/gigantischer-wal-taucht-neben-kanufahrerin-auf_583784.html?page=1&amp;assets=18&amp;bcautostart=true" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3508194/teaserImg106x68/wal-teaser.jpg" width="106" height="68" border="0" title="Wal taucht neben Kanu auf" alt="Wal taucht neben Kanu auf"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Spektakuläres Video
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://unterhaltung.freenet.de/video/gigantischer-wal-taucht-neben-kanufahrerin-auf_583784.html?page=1&amp;assets=18&amp;bcautostart=true" onclick="" target="_self">
+<strong>Wal taucht neben Kanu auf</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp2 frn_teaser_noZusatz no_bhead frn_noDottedLine last3 ">
+<span class="frn_teaserNum num2">2</span>
+<div class="bildContainer">
+<a href="http://unterhaltung.freenet.de/video/flammende-rache_593531.html?page=3&amp;assets=18&amp;bcautostart=true" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3522168/teaserImg106x68/hummer-brennt.jpg" width="106" height="68" border="0" title="Heiße Rache: SUV geht in Flammen auf" alt="Heiße Rache: SUV geht in Flammen auf"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Hummer in Brand gesetzt
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://unterhaltung.freenet.de/video/flammende-rache_593531.html?page=3&amp;assets=18&amp;bcautostart=true" onclick="" target="_self">
+<strong>Heiße Rache: SUV geht in Flammen auf</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_btTeaser frn_btTeaser_var2 frn_ttyp2 frn_teaser_noZusatz no_bhead frn_noDottedLine last2 last3 last ">
+<span class="frn_teaserNum num3">3</span>
+<div class="bildContainer">
+<a href="http://unterhaltung.freenet.de/video/nachrichten/tanker-rausch-in-hafendock_582794.html?page=1&amp;assets=18&amp;bcautostart=true" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/3509070/teaserImg106x68/tanker-rammt-dock.jpg" width="106" height="68" border="0" title="Tanker rammt Trockendock" alt="Tanker rammt Trockendock"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserKicker">
+Krasses Unfall-Video
+</div>
+<div class="frn_teaserHeadline">
+<a href="http://unterhaltung.freenet.de/video/nachrichten/tanker-rausch-in-hafendock_582794.html?page=1&amp;assets=18&amp;bcautostart=true" onclick="" target="_self">
+<strong>Tanker rammt Trockendock</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+autoSizeTabs();
+$(document).ready( function() {
+initPanels();
+readCookie();
+//showPanels();
+$('#TabConf3243794').click( function() {
+$('#conf_frnPanelTabs3243794').toggle();
+} );
+});
+/* ]]> */
+</script>
+<div id="adBox33" class="frn_adbox">
+<div id="fXm_ppos33Anz" class="frn_adboxHead">Anzeige</div>
+<script type="text/javascript" class="ad">
+/* <![CDATA[ */
+if (! frn046adxtra ) var frn046adxtra = "";
+var frn046enrich = (typeof pt027bw == 'undefined')? "&band=256"+frn046adxtra : "&band="+pt027bw+frn046adxtra;
+var frn046enrich = (typeof frn046tie == 'undefined')? "&tie=free"+frn046enrich : "&tie="+frn046tie+frn046enrich;
+document.write('<scr' + 'ipt type="text/javascript" src="http://adserver.freenet.de/js.ng/site=fn&affiliate=fn_port&prod=fn_port&tbl=channel&ppos=33'+frn046enrich+'"></scr' + 'ipt>');
+/* ]]> */
+</script>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var t = null;
+var hide = (document.layers) ? 'hide' : 'hidden';
+var show = (document.layers) ? 'show' : 'visible';
+function hideLyr(name) {
+var Lyr = getObject(name);
+if ( !document.layers && Lyr != null ) {
+Lyr = Lyr.style;
+}
+if (Lyr) {
+Lyr.visibility=hide; 
+}
+}
+function showLyr(name) {
+var Lyr = getObject(name);
+if ( !document.layers  && Lyr != null ) {
+Lyr = Lyr.style;
+}
+if (Lyr) {
+Lyr.visibility=show;
+}
+}
+function getObject(name) {
+if(document.getElementById) return document.getElementById(name);
+else if(document.all) return document.all[name];
+else if(document.layers) return document.layers[name];
+}
+var table_sel = 'dax';
+function argi_show(ly) {
+if ( table_sel ) {
+hideLyr('table_'+table_sel);
+lx = getObject('rx_'+table_sel);
+lx.style.backgroundImage='url(http://tls.freenet.de/i/chartnaviBG_passiv.gif)'; 
+lx.style.fontWeight='normal';
+}
+showLyr('table_'+ly);
+lx = getObject('rx_'+ly);
+lx.style.backgroundImage='url(http://tls.freenet.de/i/chartnaviBG_activ.gif)'; 
+lx.style.fontWeight='bold';
+table_sel=ly;
+}
+/* ]]> */
+</script>
+<style type="text/css">
+.arv_xartable .arv_row1 { background-color: #e8edf3 }
+.arv_xartable .arv_row0 { background-color: #ffffff }
+.arv_xartable .arv_xarrow1 { background-color: #e8edf3 }
+.arv_xartable .arv_xarrow0 { background-color: #ffffff }
+.arv_xartable th { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000; text-align: left; padding: 2px 10px 2px 10px; background-color: #ddd; }
+.arv_xartable thead th { font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#000000; text-align:left; padding:1px 9px; }
+.arv_headline_white th { font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#000000; text-align:left; padding-left: 0px; }
+.arv_xartable td { font-family: Arial, Helvetica, sans-serif; font-size: 11px; padding: 0px; line-height: 14px !important;}
+.arv_xartable a { color: #333333; }
+.arv_xartable_fix td { font-family: Arial, Helvetica, sans-serif; font-size: 11px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; line-height: 14px !important;}
+.arv_xartable_fix a { color: #333333; }
+.arv_chart_tab { height: 21px; text-align: center; border-right: 1px solid #E5E5E5; font-weight: none; padding: 0px 15px 0px 5px; background: url('/i/chartnaviBG_passiv.gif') no-repeat;}
+.arv_chart_tab a { color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration: none; }
+.arv_chartrow { background:url('http://tls.freenet.de/i/chartsBG.png') repeat }
+</style>
+<div style="border: 1px solid #D4D4D4; background: #fff; width: 300px; height: 230px; " class="arv_xartable_box">
+<table class="arv_xartable" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<th style="background:url('http://tls.freenet.de/i/bg_headline_artikel.gif') repeat;">Markt&uuml;bersicht</th>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="height: 21px; vertical-align: bottom; margin-top: 0px" class="arv_xartable">
+<tr>
+<td style="vertical-align:bottom;" width="150">
+<table border="0" cellpadding="0" cellspacing="0" class="arv_xartable" width="180">
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" class="arv_xartable">
+<tr>
+<td class="arv_chart_tab" id="rx_dax" width="50">
+<a onmouseover="argi_show('dax')" style="align: center; vertical-align: middle; " href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/846900-DAX-Indizes-Kursliste?chart=1" id="reiter_dax"> &nbsp;DAX&nbsp;</a>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" class="arv_xartable">
+<tr>
+<td class="arv_chart_tab" id="rx_tecdax" width="50">
+<a onmouseover="argi_show('tecdax')" style="align: center; vertical-align: middle; " href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/720327-TecDAX_Performance-Indizes-Kursliste?chart=1" id="reiter_tecdax"> &nbsp;TDAX&nbsp;</a>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" class="arv_xartable">
+<tr>
+<td class="arv_chart_tab" id="rx_dow30" width="50">
+<a onmouseover="argi_show('dow30')" style="align: center; vertical-align: middle; " href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/969420-Dow_Jones_Industrial_Average-Indizes-Kursliste?chart=1" id="reiter_dow30"> &nbsp;DOW&nbsp;</a>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" class="arv_xartable">
+<tr>
+<td class="arv_chart_tab" id="rx_nasdaq" width="50">
+<a onmouseover="argi_show('nasdaq')" style="align: center; vertical-align: middle; " href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/A0AE1X-Nasdaq_100-Indizes-Kursliste?chart=1" id="reiter_nasdaq"> &nbsp;NSDQ&nbsp;</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td style="border-bottom: 1px solid #E0E6E8;" width="*">&nbsp;</td>
+</tr>
+</table>
+<div style="height: 130px"></div>
+<div style="position:relative;">
+<div id="table_dax" style="width: 300px; height: 100%; position: absolute; top:-127px; left: 10px; padding: 3px; padding-left: 0px; visibility:visible">
+<div style="width: 145px; font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #334680; padding-top: 10px;">
+<div style="float: left; padding-left: 5px;">DAX</div>
+<div style="float: right; padding-right: 5px; color: #BF2000">-0,21%</div>
+<div style="clear: both"></div>
+</div>
+<div style="height: 100px; width: 145px;" class="arv_chartrow">
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_bilder/boerse.freenet.de/846900-DAX-Indizes-Kursliste?chart=1">
+<img border="0" src="http://img.freenet.de/feed/start/boerse/neu_dax.png" height="100" width="145"></a>
+</div>
+<div style="left: 158px; top:10px; width: 134px; position:absolute; padding-top:0px">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px; padding-right: 10px;" class="arv_xartable_fix">
+<tr>
+<td><span style="color: #519E14; font-weight: bold;">DAX Tops</span></td>
+<td align="right"><span style="color: #519E14; font-weight: bold;">Diff %</span></td>
+</tr> <tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/578560-Fresenius-Aktie-Profil">Fresenius</a></td>
+<td align="right" style="font-size: 11px;">+1,64%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/716460-SAP-Aktie-Profil">SAP</a></td>
+<td align="right" style="font-size: 11px;">+1,48%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/604843-Henkel_Vz-Aktie-Profil">Henkel Vz</a></td>
+<td align="right" style="font-size: 11px;">+1,36%</td>
+</tr>
+<tr>
+<td><span style="color: #BF2000; font-weight: bold;">DAX Flops</span></td>
+<td align="right"><span style="color: #BF2000; font-weight: bold;">Diff %</span></td>
+</tr> <tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/555200-Deutsche_Post-Aktie-Profil">Dt. Post</a></td>
+<td align="right" style="font-size: 11px;">-2,03%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/750000-ThyssenKrupp-Aktie-Profil">ThyssenKrup.</a></td>
+<td align="right" style="font-size: 11px;">-1,68%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/BASF11-BASF-Aktie-Profil">BASF</a></td>
+<td align="right" style="font-size: 11px;">-1,27%</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="table_tecdax" style="width: 300px; height: 100%; position: absolute; top:-127px; left: 10px; padding: 3px; padding-left: 0px; visibility:hidden">
+<div style="width: 145px; font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #334680; padding-top: 10px;">
+<div style="float: left; padding-left: 5px;">TecDAX </div>
+<div style="float: right; padding-right: 5px; color: #519E14">+0,12%</div>
+<div style="clear: both"></div>
+</div>
+<div style="height: 100px; width: 145px;" class="arv_chartrow">
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_bilder/boerse.freenet.de/720327-TecDAX_Performance-Indizes-Kursliste?chart=1">
+<img border="0" src="http://img.freenet.de/feed/start/boerse/neu_tecdax.png" height="100" width="145"></a>
+</div>
+<div style="left: 158px; top:10px; width: 134px; position:absolute; padding-top:0px">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px; padding-right: 10px;" class="arv_xartable_fix">
+<tr>
+<td><span style="color: #519E14; font-weight: bold;">TDAX Tops</span></td>
+<td align="right"><span style="color: #519E14; font-weight: bold;">Diff %</span></td>
+</tr> <tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/901626-Qiagen-Aktie-Profil">Qiagen</a></td>
+<td align="right" style="font-size: 11px;">+3,16%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/510840-SolarWorld-Aktie-Profil">SolarWorld</a></td>
+<td align="right" style="font-size: 11px;">+1,65%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/A0Z1JH-PSI-Aktie-Profil">PSI</a></td>
+<td align="right" style="font-size: 11px;">+1,51%</td>
+</tr>
+<tr>
+<td><span style="color: #BF2000; font-weight: bold;">TDAX Flops</span></td>
+<td align="right"><span style="color: #BF2000; font-weight: bold;">Diff %</span></td>
+</tr> <tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/515600-Gigaset-Aktie-Profil">Gigaset</a></td>
+<td align="right" style="font-size: 11px;">-2,03%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/A0D655-Nordex_SE-Aktie-Profil">Nordex SE</a></td>
+<td align="right" style="font-size: 11px;">-1,94%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/663200-Morphosys-Aktie-Profil">Morphosys</a></td>
+<td align="right" style="font-size: 11px;">-1,68%</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="table_dow30" style="width: 300px; height: 100%; position: absolute; top:-127px; left: 10px; padding: 3px; padding-left: 0px; visibility:hidden">
+<div style="width: 145px; font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #334680; padding-top: 10px;">
+<div style="float: left; padding-left: 5px;">Dow Jones </div>
+<div style="float: right; padding-right: 5px; color: #334680">0,00%</div>
+<div style="clear: both"></div>
+</div>
+<div style="height: 100px; width: 145px;" class="arv_chartrow">
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_bilder/boerse.freenet.de/969420-Dow_Jones_Industrial_Average-Indizes-Kursliste?chart=1">
+<img border="0" src="http://img.freenet.de/feed/start/boerse/neu_dowjones.png" height="100" width="145"></a>
+</div>
+<div style="left: 158px; top:10px; width: 134px; position:absolute; padding-top:0px">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px; padding-right: 10px;" class="arv_xartable_fix">
+<tr>
+<td><span style="color: #519E14; font-weight: bold;">DOW Tops</span></td>
+<td align="right"><span style="color: #519E14; font-weight: bold;">Diff %</span></td>
+</tr> <tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/851301-Hewlett_Packard-Aktie-Profil">Hewlett Pack.</a></td>
+<td align="right" style="font-size: 11px;">+1,36%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/868402-Verizon-Aktie-Profil">Verizon</a></td>
+<td align="right" style="font-size: 11px;">+1,12%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/655910-Kraft_Foods_A-Aktie-Profil">Kraft Foods .</a></td>
+<td align="right" style="font-size: 11px;">+1,05%</td>
+</tr>
+<tr>
+<td><span style="color: #BF2000; font-weight: bold;">DOW Flops</span></td>
+<td align="right"><span style="color: #BF2000; font-weight: bold;">Diff %</span></td>
+</tr> <tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/866953-Home_Depot-Aktie-Profil">Home Depot</a></td>
+<td align="right" style="font-size: 11px;">-1,39%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/852552-Chevron-Aktie-Profil">Chevron</a></td>
+<td align="right" style="font-size: 11px;">-0,68%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/851745-3M_Company-Aktie-Profil">3M Company</a></td>
+<td align="right" style="font-size: 11px;">-0,58%</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="table_nasdaq" style="width: 300px; height: 100%; position: absolute; top:-127px; left: 10px; padding: 3px; padding-left: 0px; visibility:hidden">
+<div style="width: 145px; font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #334680; padding-top: 10px;">
+<div style="float: left; padding-left: 5px;">Nasdaq 100</div>
+<div style="float: right; padding-right: 5px; color: #334680">0,00%</div>
+<div style="clear: both"></div>
+</div>
+<div style="height: 100px; width: 145px;" class="arv_chartrow">
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_bilder/boerse.freenet.de/A0AE1X-Nasdaq_100-Indizes-Kursliste?chart=1">
+<img border="0" src="http://img.freenet.de/feed/start/boerse/neu_nasdaq.png" height="100" width="145"></a>
+</div>
+<div style="left: 158px; top:10px; width: 134px; position:absolute; padding-top:0px">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px; padding-right: 10px;" class="arv_xartable_fix">
+<tr>
+<td><span style="color: #519E14; font-weight: bold;">NSDQ Tops</span></td>
+<td align="right"><span style="color: #519E14; font-weight: bold;">Diff %</span></td>
+</tr> <tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/A0YALR-Warner_Chilcott-Aktie-Profil">Warner Chilc.</a></td>
+<td align="right" style="font-size: 11px;">+4,03%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/A0F5DE-Baidu-Aktie-Profil">Baidu</a></td>
+<td align="right" style="font-size: 11px;">+3,28%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/884437-Starbucks-Aktie-Profil">Starbucks</a></td>
+<td align="right" style="font-size: 11px;">+2,47%</td>
+</tr>
+<tr>
+<td><span style="color: #BF2000; font-weight: bold;">NSDQ Flops</span></td>
+<td align="right"><span style="color: #BF2000; font-weight: bold;">Diff %</span></td>
+</tr> <tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/552484-Netflix-Aktie-Profil">Netflix</a></td>
+<td align="right" style="font-size: 11px;">-6,35%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/922977-F5_Networks-Aktie-Profil">F5 Networks</a></td>
+<td align="right" style="font-size: 11px;">-3,10%</td>
+</tr>
+<tr>
+<td><a style="font-size: 11px; text-decoration:none" href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de/A0HGWX-Nuance_Communications-Aktie-Profil">Nuance Comm.</a></td>
+<td align="right" style="font-size: 11px;">-2,50%</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<form name="arvsearchform" id="arvsearchform" action="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_suche/boerse.freenet.de/quotes/suche?typ=AG" method="get" class="frn_suche1">
+<div style="width: 280px; height: 48px; margin: 10px; background: url('http://tls.freenet.de/i/bg_suche.gif') repeat-x">
+<input id="arvQueryField" autocomplete="off" type="text" name="search" value="WKN oder ISIN" class="frn_formBoxEntry long" style="width:135px; margin: 10px; margin-bottom: 0px;" onFocus="this.value=''" />
+<input type="image" alt="" name="image" src="http://tls.freenet.de/i/btsuchen69.gif" class="typeImg" style="margin:0px; margin-top: 10px;" />
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_finanzen_boerse_txt/boerse.freenet.de" class="frn_moreButton" title="mehr B&ouml;rse">
+<span class="frn_more">mehr B&ouml;rse</span>
+</a>
+</div>
+</form>
+<script>argi_show(table_sel);</script>
+</div>
+<script type='text/javascript'>/* <![CDATA[ */  OA_show(183);  /* ]]> */</script>
+<style type="text/css">
+#frnTopic #facebook_likebox {margin-bottom:15px;}
+#frnArticle #facebook_likebox {margin-left:6px; margin-bottom:15px;}
+</style>
+<div class="clearBoth"></div>
+<div id="facebook_likebox">
+<iframe src="http://www.facebook.com/plugins/likebox.php?id=189606066299&amp;width=301&amp;connections=16&amp;stream=false&amp;header=false&amp;height=255&amp;border_color=%23DDDDDD" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:301px; height:255px;background-color:#FFFFFF;" allowTransparency="true"></iframe>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_cont frn_col5 frn_typ2 frn_cont_noborder frn_teaserNumbersOff frn_noTeaserDottedLine " >
+<div class="frn_contHead">
+<strong>Erotik</strong>
+</div>
+<div class="clearBoth"></div>
+<div class="frn_contInlett">
+<div class="frn_btTeaser frn_btTeaser_var3 frn_ttyp2 frn_teaser_noZusatz no_bhead frn_noDottedLine last2 last3 last ">
+<div class="bildContainer">
+<div class="frn_bhead">Girl des Tages: Oxana (24)</div>
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_erotik_gdt_soft/erotik.freenet.de/freenet/index.html" onclick="" target="_self">
+<span class="iconBCont"></span>
+<img src="http://blob.freent.de/contentblob/958688/teaserImg300x200/05-girl-des-tages-bild--soft-005092012.jpg" width="300" height="200" border="0" title="Girl des Tages: Oxana (24)" alt="Girl des Tages: Oxana (24)"/>
+</a>
+</div>
+<div class="frn_text">
+<div class="frn_teaserHeadline">
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_erotik_gdt_soft/erotik.freenet.de/freenet/index.html" onclick="" target="_self">
+<strong>Girl des Tages: Oxana (24)</strong>
+</a>
+</div>
+<div class="clearBoth"></div>
+<span class="frn_teaserSubHeadline">
+Sinnliche Lippen, pralle Brüste, langes blondes Haar: Oxana zeigt uns, was sie zu bieten hat.
+<a href="http://tools.freenet.de/mod_perl/linker/freenet_startseite_erotik_gdt_soft/erotik.freenet.de/freenet/index.html" target="_self">mehr &raquo;</a>
+</span>
+</div>
+</div>
+<div class="clearBoth"></div>
+</div>
+</div>
+</div>
+<!-- ] -->
+<div style="clear: both;"></div> </div>
+</div>
+<div style="clear: both;"></div>
+<div id="frnContentBottom">
+<!-- CONTENT[ -->
+<div class="lay5">	<script type="text/javascript">
+/* <![CDATA[ */
+statBrowser(); 
+statScreen();
+$(document).ready(function() {
+statBlocker();
+})
+/* ]]> */
+</script>
+</div>
+<!-- ] -->
+</div>
+</div>
+<!-- eo Layouttable -->
+<div style="clear: both;"></div>
+<div id="frnGreen"></div>
+</div>
+<div id="frnFoot">
+<div class="frn_search web">
+<div class="frn_searchNavi"></div>
+<form name="f" method="get" action="http://tools.freenet.de/mod_perl/linker/freenet_startseite_suchbutton/suche.freenet.de/suche" target="_top" class="frn_searchForm">
+<input name="query" type="text" value="" class="frn_search_field1"/>
+<input name="query2" type="text" value="" class="frn_search_field2" />
+<input type="hidden" name="search_type" value="" class="frn_search_type"/>
+<input type="hidden" name="Partner" value="freenet" />
+<input type="hidden" name="country" value="" class="frn_search_country"/>
+<input type="hidden" name="fref" value="" class="frn_search_fref"/>
+<input type="hidden" name="vs" value="" class="frn_search_vs"/>
+<div class="frn_searchButton" onclick="parentNode.submit()"><input type="submit" value=" Suchen " /></div>
+</form>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+freenetSearchInit();
+/* ]]> */
+</script>
+<div>
+<a href="http://www1.freenet.de/impressum/index.html" onclick="" rel="nofollow" target="_self" title="Impressum">
+Impressum
+</a>
+|&nbsp;
+<a href="http://www1.freenet.de/agb/index.html" onclick="" rel="nofollow" target="_self" title="Allgemeine Geschäfts- und Nutzungsbedingungen">
+AGB
+</a>
+|&nbsp;
+<a href="http://www1.freenet.de/datenschutz/index.html" onclick="" rel="nofollow" target="_self" title="Datenschutz">
+Datenschutz
+</a>
+|&nbsp;
+<a href="http://kundenservice.freenet.de/" title="Kundenservice" rel="nofollow">Kundenservice</a>
+|&nbsp;
+<a href="http://werbung.freenet.de" title="Mediadaten" rel="nofollow">Mediadaten</a>
+|&nbsp;
+<a href="http://www.freenet-group.de/index.html" title="freenet AG" rel="nofollow">freenet AG</a>
+|&nbsp;
+<a href="http://www.freenet.ag/karriere/stellenangebote.html" title="Jobs" rel="nofollow">Jobs</a>
+|&nbsp;
+<a href="http://www1.freenet.de/abisz/index.html" title="Sitemap" rel="nofollow">Sitemap</a>
+</div>
+<div id="frn_icra" style="text-align:center; margin-top:-10px;">
+<div>gekennzeichnet mit</div>
+<div style="margin-top:-15px;"><a href="http://www.jusprog.de" target="_blank"><img src="http://blob.freent.de/contentblob/3034130/original/jusprogagedeicon6.png" width="156" height="31" border="0" alt="JUSPROG e.V. - Jugendschutz" /></a></div>
+<div style="margin-top:-15px;">freenet ist Mitglied im JUSPROG e.V.</div>
+</div>
+<div id="frnFootPartner">
+<span id="frnFootAngebote">Weitere Online-Angebote des freenet-Konzerns:</span>
+<a href="http://www.mobilcom-debitel.de/" target="_blank" title="Handys &amp; Tarife">mobilcom-debitel</a>
+&nbsp;|&nbsp;
+<a href="http://www.crash-tarife.de/" target="_blank" title="crash Tarife">crash Tarife</a>
+&nbsp;|&nbsp;
+<a href="http://www.4players.de/" target="_blank" title="Spieletests online">Spieletests online</a>
+&nbsp;|&nbsp;
+<a href="http://gameserver.4players.de/" target="_blank" title="Gameserver mieten">Gameserver mieten</a>
+&nbsp;|&nbsp;
+<a href="http://www.fundorado.de/free/" target="_blank" title="Fundorado">Fundorado</a>
+&nbsp;|&nbsp;
+<a href="http://www.klarmobil.de/index.html?pid=73108" target="_blank" title="Klarmobil">Klarmobil</a>
+&nbsp;|&nbsp;
+<a href="http://gameserver.4players.de/layout_teamspeak-server-bestellen.html" target="_blank" title="Teamspeak Server">Teamspeak Server</a>
+&nbsp;|&nbsp;
+<a href="http://www.vitrado.de/" target="_blank" title="Vitrado">Vitrado</a>
+&nbsp;|&nbsp;
+<a href="http://pocketfahrschule.de/" target="_blank" title="Fahrschultest">Fahrschultest</a>
+</div>
+</div>
+<div id="frnAdSky">
+<div id="frnAdSkyPos">
+<div id="fnsky">
+<script type="text/javascript" class="ad">
+/* <![CDATA[ */
+if (! frn046adxtra ) var frn046adxtra = "";
+var frn046enrich = (typeof pt027bw == 'undefined')? "&band=256"+frn046adxtra : "&band="+pt027bw+frn046adxtra;
+var frn046enrich = (typeof frn046tie == 'undefined')? "&tie=free"+frn046enrich : "&tie="+frn046tie+frn046enrich;
+document.write('<scr'+'ipt type="text/javascript" src="http://adserver.freenet.de/js.ng/site=fn&affiliate=fn_port&adset=bs&adset=f&prod=fn_port&tbl=channel&ppos=11'+frn046enrich+'"></scr'+'ipt>');
+/* ]]> */
+</script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" class="ad">
+/* <![CDATA[ */
+if (! frn046adxtra ) var frn046adxtra = "";
+var frn046enrich = (typeof pt027bw == 'undefined')? "&band=256"+frn046adxtra : "&band="+pt027bw+frn046adxtra;
+var frn046enrich = (typeof frn046tie == 'undefined')? "&tie=free"+frn046enrich : "&tie="+frn046tie+frn046enrich;
+var frn071adtag =  escape("http://adserver.freenet.de/js.ng/site=fn&affiliate=fn_port&prod=fn_port&tbl=channel&ppos=19"+frn046enrich);
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://adserver.freenet.de/Ads/script/fn_popunder_ad.js"></script>
+<!-- Wed Sep 05 11:36:03 CEST 2012, host: 'cae02.core.freenet-rz.de', app: '1', rev: 'Revision Id: 348439 : 30.08.2012 14:38' -->
+</body>
+</html>

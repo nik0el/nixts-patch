@@ -1,0 +1,11 @@
+#! /bin/sh
+
+V=$(ps aux | grep [v]nc | awk '{print $1}' | tail -n 1)
+
+if [ -z "$V" ]
+then
+x11vnc -remap /etc/remap -forever -display :0 -rfbauth /etc/vncpass
+else
+exit 1
+fi
+exit 0
