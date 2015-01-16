@@ -17,9 +17,9 @@ if is_enabled $FREERDP_SELECT_SERVER; then
 	SELECTED_SERVER=""
 	SELECTED_SERVER=`Xdialog	--stdout \
 					--title "Choose server" \
-					--ok-label="Connect .." \
+					--ok-label="Подключиться .." \
 					--no-cancel \
-					--radiolist "Available servers" 20 50 0 \
+					--radiolist "Выбор сервера" 20 50 0 \
 					$SERVER_LIST`
 	CNT=0
 	while [[ ! -z "`eval echo '$FREERDP_SERVER_'$CNT`" ]]; do
