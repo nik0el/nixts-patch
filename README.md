@@ -8,9 +8,10 @@ http://nixts.org
 
 2. В файле /ts/build/packages/base/etc/profile добавлен русский шрифт для консоли: setfont /lib/kbd/consolefonts/LatArCyrHeb-16.psfu.gz
 
-3. В файле /ts/build/packages/base/etc/dialog.functions изменен текст в меню на русском
+3. В файле /ts/build/packages/base/etc/dialog.functions изменен текст в меню на русском. 
 
 4. В пакете messagebox заменен Xdialog (указал использовать локализацию ru) и добавлен русский перевод /ts/build/packages/messagebox/lib/locale/ru/LC_MESSAGES/Xdialog.mo
+Картинка: /ts/build/packages/messagebox/lib/pixmaps/nixts.org.xpm (В файле /ts/build/packages/base/etc/dialog.functions прописана опция выводить картинку "--icon /lib/pixmaps/nixts.org.xpm \")
 
 5. Пакет foo2zjs не проверялся, изменена только директория для прошивок.
 
